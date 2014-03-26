@@ -1,6 +1,21 @@
-#!/bin/bash       
-scp ./*.html melara@tux.cs.princeton.edu:~/public_html/
-scp ./style.css melara@tux.cs.princeton.edu:~/public_html/
-scp ./pubs/*.pdf melara@tux.cs.princeton.edu:~/public_html/pubs/
-scp ./multisurf/* melara@tux.cs.princeton.edu:~/public_html/multisurf/
-scp ./marci.jpg melara@tux.cs.princeton.edu:~/public_html/
+#!/bin/bash
+if [ $1 -eq "--all" ] ; then
+    scp ./*.html melara@tux.cs.princeton.edu:~/public_html/
+    scp ./style.css melara@tux.cs.princeton.edu:~/public_html/
+    scp ./pubs/*.pdf melara@tux.cs.princeton.edu:~/public_html/pubs/
+    scp ./multisurf/* melara@tux.cs.princeton.edu:~/public_html/multisurf/
+    scp ./marci.jpg melara@tux.cs.princeton.edu:~/public_html/
+    scp ./second.ova melara@tux.cs.princeton.edu:~/public_html/
+elif [ $1 -eq "--html" ] ; then
+    scp ./*.html melara@tux.cs.princeton.edu:~/public_html/
+    scp ./style.css melara@tux.cs.princeton.edu:~/public_html/
+elif [ $1 -eq "--pubs" ] ; then
+    scp ./pubs/*.pdf melara@tux.cs.princeton.edu:~/public_html/pubs/
+elif [ $1 -eq "--pic" ] ; then
+    scp ./marci.jpg melara@tux.cs.princeton.edu:~/public_html/
+elif [ $1 -eq "--multisurf" ] ; then
+    scp ./multisurf/* melara@tux.cs.princeton.edu:~/public_html/multisurf/
+elif [ $1 -eq "--vm" ] ; then
+    scp ./second.ova melara@tux.cs.princeton.edu:~/public_html/
+fi
+    
