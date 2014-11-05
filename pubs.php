@@ -37,8 +37,12 @@ Using FPGAs to Create a Complete Computer System for the Classroom (<a href=\"pu
 
 <span class=\"label_blue\">Theses</span><hr class=\"line\"/>
 <p>
+CONIKS: Preserving Secure Communication with Untrusted Identity Providers (<a href=\"pubs/mse-thesis.pdf\">pdf</a>) <br/>
+<span class=\"label_gray\">M. Melara. Master's Thesis. Princeton University, Department of Computer Science. Advisor: Edward W. Felten. 2014.</span>
+</p>
+<p>
 ELARA: Environmental Liaison and Automated Recycling Assistant (<a href=\"pubs/honors-thesis.pdf\">pdf</a>) <br/>
-<span class=\"label_gray\">M. Melara. Senior Honors Thesis. HWS Dept. of Math and CS 2012.</span>
+<span class=\"label_gray\">M. Melara. Senior Honors Thesis. HWS Dept. of Math and Computer Science. Advisor: John Vaughn. 2012.</span>
 </p>
 
 <br/>

@@ -83,6 +83,10 @@ won Honorable Mention<br/>
 
 <span class=\"label_blue\">Publications</span><hr class=\"line\"/>
 <p>
+CONIKS: Preserving Secure Communication with Untrusted Identity Providers (<a href=\"pubs/mse-thesis.pdf\">pdf</a>) <br/>
+<span class=\"label_gray\">M. Melara. Master's Thesis. Princeton University, Department of Computer Science. Advisor: Edward W. Felten. 2014.</span>
+</p>
+<p>
 Shining the Floodlights on Mobile Web Tracking — A Privacy Survey (<a href=\"pubs/s2p2.pdf\">pdf</a>)
 <br/>
 <span class=\"label_gray\">C. Eubank, M. Melara, D. Perez Botero, A. Narayanan. W2SP 2013.</span>
