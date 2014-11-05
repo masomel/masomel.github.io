@@ -52,7 +52,7 @@ class Page{
 
 <span><a href="index.php">Home</a></span><br/>
 <span><a href="projects.php">Research & Projects</a></span><br/>
-<span><a href="pubs.php">Publications</a></span><br/>
+<span><a href="publications.php">Publications</a></span><br/>
 <span><a href="cv.pdf">Curriculum Vitae</a></span>
 <br/><br/><br/>
 </td>
