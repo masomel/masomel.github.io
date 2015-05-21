@@ -53,6 +53,7 @@ class Page{
 <span><a href="index.php">Home</a></span><br/>
 <span><a href="projects.php">Research & Projects</a></span><br/>
 <span><a href="publications.php">Publications</a></span><br/>
+<span><a href="teaching.php">Teaching</a></span><br/>
 <span><a href="cv.pdf">Curriculum Vitae</a></span>
 <br/><br/><br/>
 </td>
@@ -67,7 +68,8 @@ class Page{
 
   public function DisplayFooter(){
 	?>
-
+   <br/>
+   <div class="copyright">Copyright &copy; 2012-2015 Marcela S. Melara. All rights reserved.</div>
    </body>
    </html>
 

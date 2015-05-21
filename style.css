@@ -17,7 +17,15 @@ color: #9933FF;
 font-weight: bold;
 font-size: 12pt;
 color: #6666FF;
-#color: #FFFFFF;
+}
+
+.label_green {
+font-weight: bold;
+color: #66FF33;
+}
+
+.project_name {
+color: #33BBFF;
 }
 
 p b {
@@ -48,17 +56,14 @@ left: 15px;
 width: 800px;
 }
 
-p {
-text-align: justify;
+.inner {
+margin-left: 15px;
+margin-right: 15px;
 }
 
-.descrip {
-text-align: justify;
-}
-
-li div {
+.copyright {
 padding-top: 8px;
-color: #33BBFF;
+padding-bottom: 8px;
 }
 
 td {vertical-align: top}
