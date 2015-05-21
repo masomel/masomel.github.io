@@ -110,7 +110,7 @@ setting the soundtrack for most game levels.
 <span class=\"label_blue\">Publications</span><hr class=\"line\"/>
 <p>
 CONIKS: Preserving Secure Communication with Untrusted Identity Providers (<a href=\"pubs/mse-thesis.pdf\">pdf</a>) <br/>
-<span class=\"label_gray\">M. Melara. Master's Thesis. Princeton University, Department of Computer Science. Advisor: Edward W. Felten. 2014.</span>
+<span class=\"label_gray\">M. Melara. Master's Thesis. Princeton University, Department of Computer Science. <br/> Advisor: Edward W. Felten. 2014.</span>
 </p>
 <p>
 Shining the Floodlights on Mobile Web Tracking — A Privacy Survey (<a href=\"pubs/s2p2.pdf\">pdf</a>)
@@ -119,7 +119,7 @@ Shining the Floodlights on Mobile Web Tracking — A Privacy Survey (<a href=\"p
 <br/>
 <br/>
 ELARA: Environmental Liaison and Automated Recycling Assistant (<a href=\"pubs/honors-thesis.pdf\">pdf</a>) <br/>
-<span class=\"label_gray\">M. Melara. Senior Honors Thesis. HWS Dept. of Math and CS 2012.</span>
+<span class=\"label_gray\">M. Melara. Senior Honors Thesis. HWS Dept. of Mathematics and Computer Science. <br/>Advisor: John Vaughn. 2012.</span>
 <br/>
 <br/>
 Using FPGAs to Create a Complete Computer System for the Classroom (<a href=\"pubs/nycwic-pres.pdf\">pres</a>) 
@@ -134,7 +134,7 @@ Vireos: an Integrated, Bottom-Up Educational Operating Systems Project with FPGA
 
 <br/>
 
-<p>A more detailed list of publications and course papers can be found <a href=\"pubs.php\">here</a>.</p>
+<p>A more detailed list of publications and course papers can be found <a href=\"publications.php\">here</a>.</p>
 
 <br/>
 
