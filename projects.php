@@ -5,45 +5,53 @@ require("page.php");
 $projectpage = new Page();
 
 $projectpage->title = "<title> Projects :: Marcela Melara, PhD student, CS Dept, Princeton University</title>\n";
-$projectpage->content = "<span class=\"label_blue\">Research</span><hr class=\"line\"/>
+$projectpage->content = "<span class=\"label_blue\">Current Research</span><hr class=\"line\"/>
 
 <ul>
 <p>
-<li><div><i>Secure communications in the Cloud</i>, Jan 2013 - present</div>
+<li><div><i>Multisurf</i></div>
+</li>
+<div class=\"descrip\">
+Advisors: Prof. Edward Felten, Prof. Nick Feamster<br/>
+<br/>
+This work is an extension of a course project started in Fall 2013. The goal is to design an application that can detect in-flight modifications to web pages visited via a browser by comparing a served web page from multiple network vantage points. More specifically, this application must be able to distinguish benign modifications (such as locality-specific data or ads) from malicious changes (such as malicious script injections) automatically on behalf of the user. The idea is to use machine learning to faciliate the automatic detection of malicious modifications.
+</div>
+</p>
+
+<p>
+<li><div><i>CONIKS: Practical Key Management for End Users</i></div>
 </li>
 <div class=\"descrip\">
 Advisors: Prof. Edward Felten, Prof. Michael Freedman<br/>
-Collaborator: Aaron Blankstein<br/>
+<a href=\"http://coniks.org\">Project website</a><br/>
+<a href=\"https://github.com/coniks-sys\">Open source code</a><br/>
 <br/>
-This is my Master's thesis project. The goal is to design a key management system for secure communications 
-with an untrusted cloud provider. In particular, our system provides continuity of name-to-key bindings, or otherwise makes any violation of this continuity easily detectable. Central to our system are misbehavior detection mechanisms, as well as algorithms for verifying the integrity of name-to-key bindings.
+This was my Master's thesis project, which we have continued expanding. The goal is to design a key management system for end users that integrates into secure communication systems. In particular, our system provides consistency and privacy of name-to-key bindings using a tamper-evident data structure, making any violation of this consistency by malicious key servers efficiently detectable. Central to our system are four protocols for registering name-to-key bindings, checking the inclusion of name-to-key bindings in the key directory, monitoring that key bindings do not change unexpectedly over time, and auditing that the key server is presenting consistent views of its drectory to all participants in the system.
 </div>
 </p>
+</ul>
 
+<span class=\"label_blue\">Past Research</span><hr class=\"line\"/>
+<ul>
 <p>
-<li><div><i>Web Transparency Project</i>, Oct 2012 - April 2013</div>
+<li><div><i>Web Transparency Project</i></div>
 </li>
 <div class=\"descrip\">
 Advisor: Prof. Arvind Narayanan<br/>
-Collaborators: Chris Eubank, Diego Perez Botero<br/>
-<a href=\"http://webtransparency.org\">Web Transparency website</a><br/>
+<a href=\"http://webtransparency.org\">Project website</a><br/>
 <br/>
-This is the extension on work that started as the final group project for the Privacy Technologies course I took with Prof. Arvind Narayanan in the Fall 2012 semester. The goal of our work was to survey web tracking practices via web browsing on mobile devices, and to compare these practices with the findings of the <a href=\"fourthparty.info\">FourthParty project</a>.
-<br/><br/>
-We published a paper on this project in the Web 2.0 Security and Privacy workshop: \"Shining the Floodlights on Mobile Web Tracking — A Privacy Survey\" (<a href=\"pubs/s2p2.pdf\">pdf</a>)
+This work is an extension of a course project started in Fall 2012. The goal is to survey web tracking practices via web browsing on mobile devices, and to compare these practices with the findings of the <a href=\"fourthparty.info\">FourthParty project</a>.
 </div>
 </p>
 
 <p>
-<li><div><i>ELARA: Environmental Liaison and Automated Recycling Assistant</i>, Aug 2011 - April 2012</div>
+<li><div><i>ELARA: Environmental Liaison and Automated Recycling Assistant</i></div>
 </li>
 <div class=\"descrip\">
 Advisor: Prof. John Vaughn<br/>
 <br/>
 This was my Honors project in CS at HWS. The primary goal was to design and create a system to improve environmental recycling, as many people often do a poor job at identifying the materials which can be recycled. Thus, my project included two approaches to help solve this issue: (1) leverage the general public's knowledge about recyclables at a website to help identify recyclable items (aka crowdsourcing), and (2) build a networked kiosk to help users separate their waste correctly. I did some preliminary work on this project over the summer of 2011.<br/>
 Throughout my last two semesters as an undergraduate, I implemented the final design of the kiosk application, and built the hardware platform on which my program runs. Although I have graduated and completed this project with Honors, I plan to continue working on some aspects of this project during the next few years as well.
-<br/><br/>
-Here is a copy of my thesis: \"ELARA: Environmental Liaison and Automated Recycling Assistant\" (<a href=\"pubs/honors-thesis.pdf\">pdf</a>)
 </div>
 </p>
 
@@ -59,7 +67,7 @@ During this summer research project, I designed what is now the ELARA project. I
 </p>
 
 <p>
-<li><div><i>Using FPGAs to create a Complete Computer System for the Classroom</i>, June 2010 - Aug 2010</div>
+<li><div><i>Using FPGAs to create a Complete Computer System for the Classroom</i></div>
 </li>
 <div class=\"descrip\">
 Advisor: Prof. Marc Corliss<br/>
@@ -83,24 +91,27 @@ Advisors: Prof. Marc Corliss, Jeff Henderson<br/>
 <a href=\"http://www.seneca7.com\">Seneca7 website</a>
 <br/>
 <br/>
-This project was part of a part-time internship I did in the Spring 2011 for a new local running relay race in Geneva, NY. I was first asked to help build the website together with a fellow CS student from HWS. <br/>
-The second, and larger part, of the internship was to design and create a web-based real-time race tracking program to track the runners. My partner and I first set up the database for our program and then developed the client-side web application (using Google Maps) and the server-side scripts.
+This project is part of a part-time internship I did in the Spring 2011 for a new local running relay race in Geneva, NY. The goal is to build a web-based tracking program that tracks each team in the Seneca7 relay race, displaying the team's position on the race course in real-time. 
+The tracker uses timestamps collected when each team crosses a waypoint,
+and computes an estimated velocity given past data points (using the Google Maps API). During the race, users are able to access the tracker via a web browser.
 </div>
 </p>
+
 <p>
-<li><div><i>The Seneca Saga (for Games4Girls competition)</i>, Oct 2009 - April 2010</div>
+<li><div><i>The Seneca Saga</i>, Games4Girls competition 2010</div>
 </li>
 <div class=\"descrip\">
-won Honorable Mention<br/>
-<br/>
-This was my second year participating in the Games4Girls competition as part of a team. The goal was to create a computer game geared towards teenage girls.
-For this year, we designed and developed a role-playing game. The player slips into the role of a young princess who goes on a quest and travels across two lands to save her kingdom from a war with the neighboring kingdom. In the end, she must face and defeat the evil sorcerer who is behind all these events. <br/>
-I created one of the 5 stages of the game, and helped with the game scripts written in a C-like language. I also compiled the musical pieces for our game.
+Won Honorable Mention<br/>
+<br/>The goal is to create a computer game geared towards teenage girls.
+In this Zelda-style RPG, a princess sets out on a journey to save her kindom from an 
+evil wizard, who intends to spark a war between two neighboring kingdoms by kidnapping
+the princess' brother.<br/>
+The game plot was a collective effort by the competition team. I was additionally
+involved with designing and programming one of the game levels, as well as with
+setting the soundtrack for most game levels.
 </div>
 </p>
 </ul>
-
-</div>
 
 \n";
 
