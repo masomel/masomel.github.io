@@ -1,12 +1,11 @@
 #!/bin/bash
 if [ $1 = "--all" ] ; then
-    scp ./*.html melara@tux.cs.princeton.edu:~/../htdocs/melara/
+    scp ./*.php melara@tux.cs.princeton.edu:~/../htdocs/melara/
     scp ./style.css melara@tux.cs.princeton.edu:~/../htdocs/melara/
     scp ./pubs/*.pdf melara@tux.cs.princeton.edu:~/../htdocs/melara/
     scp ./multisurf/* melara@tux.cs.princeton.edu:~/../htdocs/melara/multisurf/
     scp ./marci.jpg melara@tux.cs.princeton.edu:~/../htdocs/melara/
-    scp ./second.ova melara@tux.cs.princeton.edu:~/../htdocs/melara/
-elif [ $1 = "--html" ] ; then
+elif [ $1 = "--page" ] ; then
     scp ./*.php melara@tux.cs.princeton.edu:~/../htdocs/melara/
     scp ./style.css melara@tux.cs.princeton.edu:~/../htdocs/melara/
 elif [ $1 = "--pubs" ] ; then
