@@ -1,4 +1,9 @@
 #!/bin/bash
+if [ $# -ne 1 ] ; then
+    echo "Usage: ./publish_homepage --all | --page | --pubs | --pic | --multisurf | --vm"
+    exit
+fi
+
 if [ $1 = "--all" ] ; then
     scp ./*.php melara@tux.cs.princeton.edu:~/../htdocs/melara/
     scp ./style.css melara@tux.cs.princeton.edu:~/../htdocs/melara/

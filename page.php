@@ -44,11 +44,15 @@ class Page{
 <img width="50%" height="50%" src="marci.jpg" alt=""/>
 </td>
 <td>
-<span class="title">Marcela Melara</span><br/>
+<span class="title">Marcela Melara</span><br/><br/>
 
-<span>melara at cs dot princeton dot edu</span><br/><br/>
+           <span>Contact: melara at cs dot princeton dot edu</span><br/>
+           <span><a href="https://twitter.com/marcelasmelara">Twitter</a></span><br/>
+           <span><a href="https://github.com/masomel">Github</a></span><br/><br/>
+
 <a href="http://www.cs.princeton.edu">Department of Computer Science</a><br/>
 35 Olden St, Princeton, NJ 08540<br/><br/></br><br/>
+</p>
 
 <span><a href="index.php">Home</a></span><br/>
 <span><a href="projects.php">Research & Projects</a></span><br/>
