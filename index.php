@@ -8,11 +8,11 @@ $homepage->title = "<title> Home :: Marcela Melara, PhD student, CS Dept, Prince
 $homepage->content = "<span class=\"label_blue\">About me</span><hr class=\"line\"/>
 <div class=\"inner\">
 <p>
-I am a second-year PhD student in the Computer Science Department at Princeton University working with <a href=\"http://www.cs.princeton.edu/~felten\">Ed Felten</a> and <a href=\"http://www.cs.princeton.edu/~mfreed\">Mike Freedman</a>. My research interests are security, systems, networks, and applied cryptography. 
+I am a second-year PhD student in the Computer Science Department at Princeton University working with <a href=\"http://www.cs.princeton.edu/~felten\">Ed Felten</a> and <a href=\"http://www.cs.princeton.edu/~mfreed\">Mike Freedman</a>. My research interests are communication and OS security.
 </p>
 
 <p>
-Previously, I recevied my M.S.E in Computer Science from Princeton in June 2014, and was co-advised by Ed Felten and Mike Freedman. My Master's thesis was on a key management system for end-to-end encrypted communication.</p>
+Previously, I recevied my M.S.E in Computer Science from Princeton in June 2014, and was co-advised by Ed Felten and Mike Freedman. My Master's thesis was on the design of a practical key management system for end users.</p>
 
 <p>I received my B.S. in Computer Science, with a Minor in Physics from <a href=\"http://www.hws.edu\">Hobart and William Smith Colleges</a> (HWS) in Geneva, NY in May 2012. I worked on two major research projects in Systems with <a href=\"http://math.hws.edu/vaughn\">John Vaughn</a> and <a href=\"http://math.hws.edu/web/faculty/corliss\">Marc Corliss</a>. 
 </p>
@@ -30,11 +30,12 @@ ads).
 </p>
 
 <p>
-<div class=\"project_name\">CONIKS: Practical Key Management for End Users</div>
-This was my MSE thesis project, which I have continued expanding.<br/>
-Design and build a practical key verification service for end-user public encryption keys.
-We achieve this via publicly-auditable, privacy preserving key directories that 
-periodically generate cryptographic &quot;snapshots&quot; of the current state making it
+<div class=\"project_name\">CONIKS: Bringing Key Transparency to End Users</div>
+This was my MSE thesis project. I continued working on this project during the first year
+of my PhD.<br/>
+Design and build a practical key verification system for end-user public encryption keys.
+We achieve this via publicly auditable, privacy-preserving key directories that 
+periodically generate cryptographic &quot;summaries&quot; of the current state making it
 possible for CONIKS clients to detect spurious keys or inconsistent views
 of any one key directory in an efficient manner.<br/>
 <a href=\"http://www.coniks.org\">Project website</a> <br/>
@@ -49,8 +50,9 @@ of any one key directory in an efficient manner.<br/>
 <span class=\"label_blue\">Publications</span><hr class=\"line\"/>
 <div class=\"inner\">
 <p>
-Bringing Deployable Key Transparency to End Users <br/>
-<span class=\"label_gray\">M. Melara, A. Blankstein, J. Bonneau, E. Felten, M. Freedman. <i class=\"label_green\">To appear in</i> Usenix Security 2015</span>
+CONIKS: Bringing Key Transparency to End Users (<a 
+href=\"https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-melara.pdf\">pdf</a>) (<a href=\"pubs/coniks_usenix15_pres.pdf\">slides</a>)<br/>
+<span class=\"label_gray\">M. Melara, A. Blankstein, J. Bonneau, E. Felten, M. Freedman. Usenix Security 2015</span>
 </p>
 <p>
 CONIKS: Preserving Secure Communication with Untrusted Identity Providers (<a href=\"pubs/mse-thesis.pdf\">pdf</a>) <br/>

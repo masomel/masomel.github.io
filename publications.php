@@ -9,9 +9,9 @@ $pubspage->content = "<span class=\"label_blue\">Refereed Publications</span><hr
 <div class=\"inner\">
 
 <p>
-Bringing Deployable Key Transparency to End Users
-<br/>
-<span class=\"label_gray\">M. Melara, A. Blankstein, J. Bonneau, E. Felten, M. Freedman. <i class=\"label_green\">To appear in</i> Usenix Security 2015.</span>
+CONIKS: Bringing Key Transparency to End Users (<a 
+href=\"https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-melara.pdf\">pdf</a>) (<a href=\"pubs/coniks_usenix15_pres.pdf\">slides</a>)<br/>
+<span class=\"label_gray\">M. Melara, A. Blankstein, J. Bonneau, E. Felten, M. Freedman. Usenix Security 2015</span>
 </p>
 <p>
 Shining the Floodlights on Mobile Web Tracking — A Privacy Survey (<a href=\"pubs/s2p2.pdf\">pdf</a>)
