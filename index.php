@@ -8,7 +8,7 @@ $homepage->title = "<title> Home :: Marcela Melara, PhD student, CS Dept, Prince
 $homepage->content = "<span class=\"label_blue\">About me</span><hr class=\"line\"/>
 <div class=\"inner\">
 <p>
-I am a second-year PhD student in the Computer Science Department at Princeton University working with <a href=\"http://www.cs.princeton.edu/~felten\">Ed Felten</a> and <a href=\"http://www.cs.princeton.edu/~mfreed\">Mike Freedman</a>. My research interests are communication and OS security.
+I am a second-year PhD student in the Computer Science Department at Princeton University working with <a href=\"http://www.cs.princeton.edu/~mfreed\">Mike Freedman</a> and <a href=\"http://www.cs.princeton.edu/~felten\">Ed Felten</a>. My research interests are communication and OS security.
 </p>
 
 <p>
@@ -23,26 +23,13 @@ Previously, I recevied my M.S.E in Computer Science from Princeton in June 2014,
 <span class=\"label_blue\">Current Research</span><hr class=\"line\"/>
 <div class=\"inner\">
 <p>
-<div class=\"project_name\">Multisurf</div>
-Detect in-flight modifications to web pages, and differentiate malicious changes from
-regular dynamic web page content (e.g., malicious script injection vs. locality-based
-ads).
+<div class=\"project_name\">Stormship</div>
+Design and build a tool to detect malicious scripts in web pages served via HTTP relying on machine 
+learning to automate the detection process. We are currently collecting and analyzing HTTP web page data
+as seen from many different geo-locations to find anomalous and suspicious scripts.
 </p>
 
-<p>
-<div class=\"project_name\">CONIKS: Bringing Key Transparency to End Users</div>
-This was my MSE thesis project. I continued working on this project during the first year
-of my PhD.<br/>
-Design and build a practical key verification system for end-user public encryption keys.
-We achieve this via publicly auditable, privacy-preserving key directories that 
-periodically generate cryptographic &quot;summaries&quot; of the current state making it
-possible for CONIKS clients to detect spurious keys or inconsistent views
-of any one key directory in an efficient manner.<br/>
-<a href=\"http://www.coniks.org\">Project website</a> <br/>
-<a href=\"https://github.com/coniks-sys\">Open source code</a>
-</p>
-
-<p>For more extensive descriptions of all my projects, please visit my <a href=\"projects.php\">research & projects</a> page.</p>
+<p>For descriptions of all my projects, current and past, please visit my <a href=\"projects.php\">research & projects</a> page.</p>
 </div>
 
 <br/>

@@ -10,19 +10,9 @@ $projectpage->content = "<span class=\"label_blue\">Current Research</span><hr c
 <div class=\"inner\">
 
 <p>
-<div class=\"project_name\">Multisurf</div>
+<div class=\"project_name\">Stormship</div>
 <div class=\"descrip\">
-This work is an extension of a course project started in Fall 2013. The goal is to design an application that can detect in-flight modifications to web pages visited via a browser by comparing a served web page from multiple network vantage points. More specifically, this application must be able to distinguish benign modifications (such as locality-specific data or ads) from malicious changes (such as malicious script injections) automatically on behalf of the user. The idea is to use machine learning to faciliate the automatic detection of malicious modifications.
-</div>
-</p>
-
-<p>
-<div class=\"project_name\">CONIKS: Practical Key Management for End Users</div>
-<div class=\"descrip\">
-This was my Master's thesis project, which we have continued expanding. The goal is to design a key management system for end users that integrates into secure communication systems. In particular, our system provides consistency and privacy of name-to-key bindings using a tamper-evident data structure, making any violation of this consistency by malicious key servers efficiently detectable. Central to our system are four protocols for registering name-to-key bindings, checking the inclusion of name-to-key bindings in the key directory, monitoring that key bindings do not change unexpectedly over time, and auditing that the key server is presenting consistent views of its drectory to all participants in the system.
-<br/>
-<a href=\"http://coniks.org\">Project website</a><br/>
-<a href=\"https://github.com/coniks-sys\">Open source code</a>
+This work is an extension of a course project started in Fall 2013. The goal is to design a tool that can detect malicious scripts included in web pages served over HTTP. The first step to finding anomalous and suspicious scripts is to compare individual web pages as seen from multiple geo-locations. The next step will be to use the results of our initial data analysis to build a training set for our machine learning-based tool, which will learn to distinguish benign scripts from malicious ones based on individual users' web browsing behavior.
 </div>
 </p>
 
@@ -33,6 +23,16 @@ This was my Master's thesis project, which we have continued expanding. The goal
 <span class=\"label_blue\">Past Research</span><hr class=\"line\"/>
 
 <div class=\"inner\">
+
+<p>
+<div class=\"project_name\">CONIKS: Practical Key Management for End Users</div>
+<div class=\"descrip\">
+This was my Master's thesis project, which we continued expanding during the first year of my PhD studies. The goal is to design a key management system for end users that integrates into secure communication systems. In particular, our system provides consistency and privacy of name-to-key bindings using a tamper-evident data structure, making any violation of this consistency by malicious key servers efficiently detectable. Central to our system are four protocols for registering name-to-key bindings, checking the inclusion of name-to-key bindings in the key directory, monitoring that key bindings do not change unexpectedly over time, and auditing that the key server is presenting consistent views of its drectory to all participants in the system.
+<br/>
+<a href=\"http://coniks.org\">Project website</a><br/>
+<a href=\"https://github.com/coniks-sys\">Open source code</a>
+</div>
+</p>
 
 <p>
 <div class=\"project_name\">Web Transparency Project</div>
