@@ -47,7 +47,7 @@ class Page{
 <span class="title">Marcela Melara</span><br/><br/>
 
            <span>Contact: melara at cs dot princeton dot edu</span><br/>
-           <span><a href="https://twitter.com/marcelasmelara">Twitter</a></span><br/>
+           <span><a href="https://twitter.com/mas0mel">@mas0mel</a></span><br/>
            <span><a href="https://github.com/masomel">Github</a></span><br/><br/>
 
 <a href="http://www.cs.princeton.edu">Department of Computer Science</a><br/>
