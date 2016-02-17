@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ $# -ne 1 ] ; then
-    echo "Usage: ./publish_homepage --all | --page | --pubs | --pic | --multisurf | --vm"
+    echo "Usage: ./publish_homepage --all | --page | --pubs | --pic | --multisurf | --vm | --sensiso"
     exit
 fi
 
@@ -21,5 +21,7 @@ elif [ $1 = "--multisurf" ] ; then
     scp ./multisurf/* melara@tux.cs.princeton.edu:~/../htdocs/melara/multisurf/
 elif [ $1 = "--vm" ] ; then
     scp ./second.ova melara@tux.cs.princeton.edu:~/../htdocs/melara/
+elif [ $1 = "--sensiso" ] ; then
+    rsync -rz --progress ./sensor_isolation/* melara@tux.cs.princeton.edu:~/../htdocs/melara/sensor_isolation
 fi
     
