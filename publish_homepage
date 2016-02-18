@@ -1,27 +1,18 @@
 #!/bin/bash
 if [ $# -ne 1 ] ; then
-    echo "Usage: ./publish_homepage --all | --page | --pubs | --pic | --multisurf | --vm | --sensiso"
+    echo "Usage: ./publish_homepage --page | --pubs | --pic | --sensiso"
     exit
 fi
 
-if [ $1 = "--all" ] ; then
-    scp ./*.php melara@tux.cs.princeton.edu:~/../htdocs/melara/
-    scp ./style.css melara@tux.cs.princeton.edu:~/../htdocs/melara/
-    scp ./pubs/*.pdf melara@tux.cs.princeton.edu:~/../htdocs/melara/
-    scp ./multisurf/* melara@tux.cs.princeton.edu:~/../htdocs/melara/multisurf/
-    scp ./marci.jpg melara@tux.cs.princeton.edu:~/../htdocs/melara/
-elif [ $1 = "--page" ] ; then
-    scp ./*.php melara@tux.cs.princeton.edu:~/../htdocs/melara/
-    scp ./style.css melara@tux.cs.princeton.edu:~/../htdocs/melara/
+if [ $1 = "--page" ] ; then
+    rsync -rz --progress ./*.php melara@tux.cs.princeton.edu:~/../htdocs/melara/
+    rsync -rz --progress ./style.css melara@tux.cs.princeton.edu:~/../htdocs/melara/
 elif [ $1 = "--pubs" ] ; then
-    scp ./pubs/*.pdf melara@tux.cs.princeton.edu:~/../htdocs/melara/pubs/
+    rsync -rz --progress ./pubs/*.pdf melara@tux.cs.princeton.edu:~/../htdocs/melara/pubs/
 elif [ $1 = "--pic" ] ; then
-    scp ./marci.jpg melara@tux.cs.princeton.edu:~/../htdocs/melara/
-elif [ $1 = "--multisurf" ] ; then
-    scp ./multisurf/* melara@tux.cs.princeton.edu:~/../htdocs/melara/multisurf/
-elif [ $1 = "--vm" ] ; then
-    scp ./second.ova melara@tux.cs.princeton.edu:~/../htdocs/melara/
+    rsync -rz --progress ./marci.jpg melara@tux.cs.princeton.edu:~/../htdocs/melara/
 elif [ $1 = "--sensiso" ] ; then
-    rsync -rz --progress ./sensor_isolation/* melara@tux.cs.princeton.edu:~/../htdocs/melara/sensor_isolation
+    rsync -rz --progress ./sensor_isolation/* melara@tux.cs.princeton.edu:~/../htdocs/melara/sensor_isolation/
+    rsync -rz --progress ./sensor_isolation/.htaccess melara@tux.cs.princeton.edu:~/../htdocs/melara/sensor_isolation/
 fi
     
