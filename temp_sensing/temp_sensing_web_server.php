@@ -4,6 +4,7 @@
 $time = $_POST["time"];
 $fahrenheit = $_POST["fahrenheit"];
 $celcius = $_POST["celcius"];
-$cur_temp = $time.": ".$fahrenheit."&#176;F / ".$celcius."&#176;C";
+$cur_temp = $fahrenheit."&#176;F / ".$celcius."&#176;C\n";
+$cur_temp = $cur_temp.$time;
 file_put_contents("cur_temp.txt", $cur_temp, LOCK_EX);
 ?>

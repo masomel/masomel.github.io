@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Raspberry Pi Temperature App</title>
+<title>Raspberry Pi Thermometer App</title>
 </head>        
 <body>
-<h3>Raspberry Pi Temperature App</h3>
-         Current temperature in Sherrerd 320:
+<h3>Sherrerd 320 Raspberry Pi Thermometer</h3>
 <?php
-   $cur_temp = file_get_contents("cur_temp.txt");
-   echo $cur_temp;
+   $cur_temp = file("cur_temp.txt");
+echo "Current temperature: ".$cur_temp[0]."<br/><br/>";
+echo "Current time: ".$cur_temp[1];
 ?>
 </body>
