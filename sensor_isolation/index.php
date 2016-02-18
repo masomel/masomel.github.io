@@ -3,8 +3,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Raspberry Pi Temperature Sensing</title>
-</head>
-
+</head>        
 <body>
-<h2>Current Temperature in Sherrerd 320</h2>
+<h3>Current Temperature in Sherrerd 320</h3>
+<?php
+$time = $_POST['time'];
+$fahrenheit = $_POST['fahrenheit'];
+$celcius = $_POST['celcius'];
+echo $time.": ".$fahrenheit."&#176;F / ".$celcius."&#176;C"
+?>
 </body>
