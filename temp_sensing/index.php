@@ -8,11 +8,7 @@
 <h3>Raspberry Pi Temperature App</h3>
          Current temperature in Sherrerd 320:
 <?php
-         //$data = file_get_contents('php://input');
-         //       $time = $data->{"time"};
-//$fahrenheit = $_POST["fahrenheit"];
-         //$celcius = $_POST["celcius"];
-         //echo $time.": ".$fahrenheit."&#176;F / ".$celcius."&#176;C"
-echo $_POST["time"]
+   $cur_temp = file_get_contents("cur_temp.txt");
+   echo $cur_temp;
 ?>
 </body>
