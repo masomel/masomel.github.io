@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ $# -ne 1 ] ; then
-    echo "Usage: ./publish_homepage --page | --pubs | --pic | --tempsense"
+    echo "Usage: ./publish_homepage --page | --pubs | --pic | --pitherm"
     exit
 fi
 
@@ -11,8 +11,8 @@ elif [ $1 = "--pubs" ] ; then
     rsync -rz --progress ./pubs/*.pdf melara@tux.cs.princeton.edu:~/../htdocs/melara/pubs/
 elif [ $1 = "--pic" ] ; then
     rsync -rz --progress ./marci.jpg melara@tux.cs.princeton.edu:~/../htdocs/melara/
-elif [ $1 = "--tempsense" ] ; then
-    rsync -rz --progress ./temp_sensing/* melara@tux.cs.princeton.edu:~/../htdocs/melara/temp_sensing/
-    rsync -rz --progress ./temp_sensing/.htaccess melara@tux.cs.princeton.edu:~/../htdocs/melara/temp_sensing/
+elif [ $1 = "--pitherm" ] ; then
+    rsync -rz --progress ./pi_thermometer/* melara@tux.cs.princeton.edu:~/../htdocs/melara/pi_thermometer/
+    rsync -rz --progress ./pi_thermometer/.htaccess melara@tux.cs.princeton.edu:~/../htdocs/melara/pi_thermometer/
 fi
     
