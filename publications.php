@@ -10,7 +10,7 @@ $pubspage->content = "<span class=\"label_blue\">Refereed Publications</span><hr
 
 <p>
 CONIKS: Bringing Key Transparency to End Users (<a 
-href=\"https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-melara.pdf\">pdf</a>) (<a href=\"pubs/coniks_usenix15_pres.pdf\">slides</a>)<br/>
+href=\"pubs/sec15-paper-melara.pdf\">pdf</a>) (<a href=\"pubs/coniks_usenix15_pres.pdf\">slides</a>)<br/>
 <span class=\"label_gray\">M. Melara, A. Blankstein, J. Bonneau, E. Felten, M. Freedman. Usenix Security 2015</span>
 </p>
 <p>

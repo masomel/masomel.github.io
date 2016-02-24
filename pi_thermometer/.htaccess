@@ -1,0 +1,7 @@
+AuthName "Sensor Isolation Research"
+AuthType Basic
+<Limit POST>
+order deny,allow
+deny from all
+allow from 128.112.92.55
+</Limit>
