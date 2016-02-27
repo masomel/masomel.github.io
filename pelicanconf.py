@@ -26,16 +26,17 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('CONIKS Project', 'http://coniks.org'),)
+LINKS = (('coniks.org', 'http://coniks.org'),)
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/mas0mel'),
-          ('github', 'https://github.com/masomel'),)
+    ('github', 'https://github.com/masomel'),)
 
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
 
 THEME = 'style/pelican-bootstrap3'
+BOOTSTRAP_THEME = 'darkly'
 #CUSTOM_CSS = 'static/style.css'
 
 # Tell Pelican to add 'style.css' to the output dir
