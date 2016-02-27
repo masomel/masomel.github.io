@@ -73,7 +73,7 @@ class Page{
   public function DisplayFooter(){
 	?>
    <br/>
-   <div class="copyright">Copyright &copy; 2012-2015 Marcela S. Melara. All rights reserved.</div>
+   <div class="copyright">Copyright &copy; 2012-2016 Marcela S. Melara. All rights reserved.</div>
    </body>
    </html>
 
