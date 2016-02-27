@@ -11,6 +11,12 @@ PATH = 'content'
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
+DEFAULT_DATE = 'fs'
+
+ARCHIVES_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
+TAGS_SAVE_AS = ''
+CATEGORIES_SAVE_AS = ''
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -23,13 +29,13 @@ AUTHOR_FEED_RSS = None
 LINKS = (('CONIKS Project', 'http://coniks.org'),)
 
 # Social widget
-SOCIAL = (('twitter.com', 'https://twitter.com/mas0mel'),
-          ('github.com', 'https://github.com/masomel'),)
+SOCIAL = (('twitter', 'https://twitter.com/mas0mel'),
+          ('github', 'https://github.com/masomel'),)
 
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
 
-THEME = '/home/marcela/pelican-bootstrap3'
+THEME = 'style/pelican-bootstrap3'
 #CUSTOM_CSS = 'static/style.css'
 
 # Tell Pelican to add 'style.css' to the output dir
@@ -40,7 +46,7 @@ STATIC_PATHS = ['static/images']
   #  'static/style.css': {'path': 'static/style.css'}
 #}
 
-AVATAR = 'static/images/marci.jpg'
+SIDEBAR_IMAGES = ['static/images/marcela.jpg']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
