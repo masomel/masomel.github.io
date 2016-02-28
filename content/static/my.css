@@ -1,16 +1,6 @@
 body, table {
 background-position: right top;
 background-repeat: no-repeat;
-background-color: #000000;
-color: #FFFFFF;
-font-family: Verdana, Lucida Grande, Verdana, Sans-Serif;
-font-size: 10pt;
-letter-spacing:.7px;
-}
-
-A:link, A:visited, A:active {
-text-decoration: none;
-color: #9933FF;
 }
 
 .label_blue {
@@ -42,7 +32,7 @@ color: #6666FF;
 border: none 0; 
 border-top: 1px solid #AAAAAA;
 height: 1px;
-margin: 10px auto 0 0;
+margin: 10px auto 10px 0;
 }
 
 .label_gray {
@@ -54,6 +44,7 @@ font-size: 14px;
 position: absolute;
 left: 15px;
 width: 800px;
+height: 100%
 }
 
 .inner {
@@ -61,7 +52,7 @@ margin-left: 15px;
 margin-right: 15px;
 }
 
-.copyright {
+footer {
 padding-top: 8px;
 padding-bottom: 8px;
 }

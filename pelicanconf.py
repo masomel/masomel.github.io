@@ -37,15 +37,10 @@ DEFAULT_PAGINATION = False
 
 THEME = 'style/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'darkly'
-#CUSTOM_CSS = 'static/style.css'
+CUSTOM_CSS = 'static/my.css'
 
 # Tell Pelican to add 'style.css' to the output dir
-STATIC_PATHS = ['static/images']
-
-# Tell Pelican to change the path to 'static/custom.css' in the output dir
-#EXTRA_PATH_METADATA = {
-  #  'static/style.css': {'path': 'static/style.css'}
-#}
+STATIC_PATHS = ['static/images', 'static/pubs', 'static/my.css']
 
 SIDEBAR_IMAGES = ['static/images/marcela.jpg']
 
