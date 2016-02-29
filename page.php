@@ -41,7 +41,7 @@ class Page{
 <table width="100%"><tr>
 <td align="left">
 
-<img width="50%" height="50%" src="marci.jpg" alt=""/>
+<img width="50%" height="50%" src="marcela.jpg" alt=""/>
 </td>
 <td>
 <span class="title">Marcela Melara</span><br/><br/>

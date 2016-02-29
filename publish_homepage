@@ -10,7 +10,7 @@ if [ $1 = "--page" ] ; then
 elif [ $1 = "--pubs" ] ; then
     rsync -rz --progress ./pubs/*.pdf melara@tux.cs.princeton.edu:~/../htdocs/melara/pubs/
 elif [ $1 = "--pic" ] ; then
-    rsync -rz --progress ./marci.jpg melara@tux.cs.princeton.edu:~/../htdocs/melara/
+    rsync -rz --progress ./*.jpg melara@tux.cs.princeton.edu:~/../htdocs/melara/
 elif [ $1 = "--pitherm" ] ; then
     rsync -rz --progress ./pi_thermometer/* melara@tux.cs.princeton.edu:~/../htdocs/melara/pi_thermometer/
     rsync -rz --progress ./pi_thermometer/.htaccess melara@tux.cs.princeton.edu:~/../htdocs/melara/pi_thermometer/
