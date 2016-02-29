@@ -5,7 +5,6 @@ save_as: publications.html
 <div class="left">
 <span class="label_blue">Refereed Publications</span><hr class="line"/>
 <div class="inner">
-
 <p>
 CONIKS: Bringing Key Transparency to End Users (<a href="static/pubs/sec15-paper-melara.pdf">pdf</a>)
 <br/>
@@ -22,9 +21,7 @@ Vireos: an Integrated, Bottom-Up Educational Operating Systems Project with FPGA
 <span class="label_gray">M. Corliss, M. Melara. SIGCSE 2011.</span>
 </p>
 </div>
-
 <br/>
-
 <span class="label_blue">Theses</span><hr class="line"/>
 <div class="inner">
 <p>
@@ -38,9 +35,7 @@ ELARA: Environmental Liaison and Automated Recycling Assistant (<a href="static/
 <span class="label_gray">M. Melara. Senior Honors Thesis. HWS Dept. of Math and Computer Science. <br/>Advisor: John Vaughn. 2012.</span>
 </p>
 </div>
-
 <br/>
-
 <span class="label_blue">Posters and Presentations</span><hr class="line"/>
 <div class="inner">
 <p>CONIKS: Bringing Key Transparency to End Users (<a href="static/pubs/coniks_usenix15_pres.pdf">slides</a>)

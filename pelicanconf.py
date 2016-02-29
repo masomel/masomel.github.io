@@ -37,6 +37,7 @@ DEFAULT_PAGINATION = False
 
 THEME = 'style/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'darkly'
+BOOTSTRAP_FLUID = True
 CUSTOM_CSS = 'static/my.css'
 
 # Tell Pelican to add 'style.css' to the output dir
