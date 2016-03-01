@@ -1,12 +1,7 @@
-body, table {
-background-position: right top;
-background-repeat: no-repeat;
-}
-
 .label_blue {
 font-weight: bold;
 font-size: 12pt;
-color: #6666FF;
+color: #2a9fd6;
 }
 
 .label_green {
@@ -41,9 +36,7 @@ font-size: 14px;
 }
 
 .left {
-position: absolute;
 left: 15px;
-width: 800px;
 height: 100%
 }
 
