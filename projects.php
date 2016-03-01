@@ -25,16 +25,6 @@ This work is an extension of a course project started in Fall 2013. The goal is 
 <div class=\"inner\">
 
 <p>
-<div class=\"project_name\">CONIKS: Practical Key Management for End Users</div>
-<div class=\"descrip\">
-This was my Master's thesis project, which we continued expanding during the first year of my PhD studies. The goal is to design a key management system for end users that integrates into secure communication systems. In particular, our system provides consistency and privacy of name-to-key bindings using a tamper-evident data structure, making any violation of this consistency by malicious key servers efficiently detectable. Central to our system are four protocols for registering name-to-key bindings, checking the inclusion of name-to-key bindings in the key directory, monitoring that key bindings do not change unexpectedly over time, and auditing that the key server is presenting consistent views of its drectory to all participants in the system.
-<br/>
-<a href=\"http://coniks.org\">Project website</a><br/>
-<a href=\"https://github.com/coniks-sys\">Open source code</a>
-</div>
-</p>
-
-<p>
 <div class=\"project_name\">Web Transparency Project</div>
 <div class=\"descrip\">
 This work is an extension of a course project started in Fall 2012. The goal is to survey web tracking practices on mobile devices, and to compare these practices with the findings of the <a href=\"fourthparty.info\">FourthParty project</a>, which surveyed web tracking on desktops.

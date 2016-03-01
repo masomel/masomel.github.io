@@ -1,7 +1,7 @@
 Title: Publications
 URL: publications.html
 save_as: publications.html
-page-order: 2
+page-order: 3
 
 <div class="left">
 <h4 class="text-primary">Refereed Publications</h4><hr class="line"/>
@@ -9,7 +9,7 @@ page-order: 2
 <p>
 CONIKS: Bringing Key Transparency to End Users (<a class="text-info" href="static/pubs/sec15-paper-melara.pdf">pdf</a>)
 <br/>
-<span class="label_gray">M. Melara, A. Blankstein, J. Bonneau, E. Felten, M. Freedman. Usenix Security Symposium 2015</span>
+<span class="label_gray">M. Melara, A. Blankstein, J. Bonneau, E. Felten, M. Freedman. USENIX Security 2015.</span>
 </p>
 <p>
 Shining the Floodlights on Mobile Web Tracking — A Privacy Survey (<a class="text-info" href="static/pubs/s2p2.pdf">pdf</a>)
@@ -39,9 +39,9 @@ ELARA: Environmental Liaison and Automated Recycling Assistant (<a class="text-i
 <br/>
 <h4 class="text-primary">Posters and Presentations</h4><hr class="line"/>
 <div class="inner">
-<p>CONIKS: Bringing Key Transparency to End Users (<a href="static/pubs/coniks_usenix15_pres.pdf">slides</a>)
+<p>CONIKS: Bringing Key Transparency to End Users (<a class="text-info" href="static/pubs/coniks_usenix15_pres.pdf">slides</a>)
 <br/>
-<span class="label_gray">M. Melara. Usenix Security Symposium 2015.</span>
+<span class="label_gray">M. Melara. USENIX Security 2015.</span>
 </p>
 <p>
 Building an Automatic and Scalable Tool for Improving Environmental Recycling: ELARA (<a class="text-info" href="static/pubs/elara-poster.pdf">poster</a>)
