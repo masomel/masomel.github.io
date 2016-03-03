@@ -7,9 +7,10 @@
       {% include 'includes/sidebar-images.html' %}
 
         {% if SOCIAL %}
-            <li class="list-group-item"><h4><span class="icon-label">Contact</span></h4>
+            <li class="list-group-item">
               <ul class="list-group" id="social">
-                <li class="list-group-item">melara at cs.princeton.edu</li>
+                <li class="list-group-item">melara@cs.princeton.edu</li>
+                <li class="list-group-item">
                 {% for s in SOCIAL %}
                     {% if s[2] %}
                         {% set name_sanitized = s[2]|lower|replace('+','-plus')|replace(' ','-') %}
@@ -17,12 +18,13 @@
                         {% set name_sanitized = s[0]|lower|replace('+','-plus')|replace(' ','-') %}
                     {% endif %}
                     {% if name_sanitized in ['flickr', 'spotify', 'stack-overflow', 'weibo'] %}
-                        {% set iconattributes = '"fa fa-' ~ name_sanitized ~ ' fa-lg"' %}
+                        {% set iconattributes = '"fa fa-' ~ name_sanitized ~ ' fa-2x"' %}
                     {% else %}
-                        {% set iconattributes = '"fa fa-' ~ name_sanitized ~ '-square fa-lg"' %}
+                        {% set iconattributes = '"fa fa-' ~ name_sanitized ~ '-square fa-2x"' %}
                     {% endif %}
-                <li class="list-group-item"><a href="{{ s[1] }}"><i class={{ iconattributes }}></i> {{ s[0] }}</a></li>
+                <a href="{{ s[1] }}"><i class={{ iconattributes }}></i></a>
                 {% endfor %}
+                </li>
               </ul>
             </li>
         {% endif %}

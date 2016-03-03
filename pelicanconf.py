@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Marcela Melara'
 SITENAME = 'Marcela Melara, PhD Student, CS Dept, Princeton University'
-SITEURL = ''
+SITEURL = 'https://www.cs.princeton.edu/~melara'
 
 PATH = 'content'
 
@@ -41,7 +41,7 @@ BOOTSTRAP_THEME = 'cyborg'
 CUSTOM_CSS = 'static/my.css'
 
 # Tell Pelican to add 'style.css' to the output dir
-STATIC_PATHS = ['static/images', 'static/pubs', 'static/my.css']
+STATIC_PATHS = ['static/images', 'static/pubs', 'static/my.css', 'static/cv.pdf']
 
 SIDEBAR_IMAGES = ['static/images/marcela.jpg']
 

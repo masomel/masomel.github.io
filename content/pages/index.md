@@ -6,7 +6,7 @@ page-order: 1
 <div class="left">
 <div class="inner">
 <p>
-I am a second-year PhD student in the Computer Science Department at Princeton University working with <a class="text-info" href="http://www.cs.princeton.edu/~mfreed">Mike Freedman</a> and <a class="text-info" href="http://www.cs.princeton.edu/~felten">Ed Felten</a>. My research focuses primarily on security, operating systems and networks. I especially enjoy building systems that provide strong security and privacy despite running in untrusted environments.
+I'm a second-year PhD student in Princeton's <a class="text-info" href="https://security.cs.princeton.edu">Security and Privacy Research Group</a> and the <a class="text-info" href="http://sns.cs.princeton.edu">S* Network Systems Group</a>. I'm also a Graduate Student Fellow at Princeton's <a class="text-info" href="https://citp.princeton.edu">Center for Information Technology Policy</a>. My research focuses primarily on security, operating systems and networks. I especially enjoy building systems that provide strong security and privacy despite running in untrusted environments.
 </p>
 
 <p>Previously, I recevied my M.S.E. in Computer Science from Princeton in June 2014, and was co-advised by Ed Felten and Mike Freedman. My Master's thesis was on <a class="text-info" href="http://coniks.org">CONIKS</a>, a practical key management system for end users, which is run by untrusted key servers.</p>
