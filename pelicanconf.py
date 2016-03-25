@@ -27,7 +27,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('CONIKS Project', 'http://coniks.org'),)
+LINKS = (('CONIKS Project', 'https://coniks.cs.princeton.edu'),)
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/mas0mel'),
