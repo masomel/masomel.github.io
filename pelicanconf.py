@@ -42,7 +42,7 @@ BOOTSTRAP_THEME = 'cyborg'
 CUSTOM_CSS = 'static/my.css'
 
 # Tell Pelican to add 'style.css' to the output dir
-STATIC_PATHS = ['static/images', 'static/pubs', 'static/my.css', 'static/cv.pdf', 'static/marcela_pubkey.asc']
+STATIC_PATHS = ['static/images', 'static/pubs', 'static/my.css', 'static/cv.pdf', 'static/pubkey_fp']
 
 SIDEBAR_IMAGES = ['static/images/marcela.jpg']
 

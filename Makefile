@@ -8,7 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=tux.cs.princeton.edu
+SSH_HOST=wash.cs.princeton.edu
 SSH_PORT=22
 SSH_USER=melara
 SSH_TARGET_DIR=../htdocs/melara
