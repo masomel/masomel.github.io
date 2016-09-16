@@ -44,7 +44,7 @@ CUSTOM_CSS = 'static/my.css'
 # Tell Pelican to add 'style.css' to the output dir
 STATIC_PATHS = ['static/images', 'static/pubs', 'static/my.css', 'static/cv.pdf', 'static/pubkey_fp']
 
-SIDEBAR_IMAGES = ['static/images/marcela.jpg']
+SIDEBAR_IMAGES = ['static/images/marcela1.jpg']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
