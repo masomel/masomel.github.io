@@ -10,6 +10,8 @@ page-order: 3
 CONIKS: Bringing Key Transparency to End Users (<a class="text-info" href="static/pubs/sec15-paper-melara.pdf">pdf</a>)
 <br/>
 <span class="label_gray">M. Melara, A. Blankstein, J. Bonneau, E. Felten, M. Freedman. USENIX Security 2015.</span>
+<br/>
+<span class="text-success">Won the 2017 Caspar Bowden PET Award</span>
 </p>
 <p>
 Shining the Floodlights on Mobile Web Tracking — A Privacy Survey (<a class="text-info" href="static/pubs/s2p2.pdf">pdf</a>)
@@ -57,6 +59,15 @@ Using FPGAs to Create a Complete Computer System for the Classroom (<a class="te
 Using FPGAs to Create a Complete Computer System for the Classroom (<a class="text-info" href="static/pubs/fpga-poster.pdf">poster</a>)
 <br/>
 <span class="label_gray">M. Melara. HWS Summer Research Symposium 2010.</span>
+</p>
+</div>
+<br/>
+<h4 class="text-primary">Other</h4><hr class="line"/>
+<div class="inner">
+<p>
+Why Making Johnny's Key Management Transparent is So Challenging (<a class="text-info" href="https://freedom-to-tinker.com/2016/03/31/why-making-johnnys-key-management-transparent-is-so-challenging/">blog post</a>)
+<br/>
+<span class="label_gray">M. Melara. Freedom to Tinker. March 2016.</span>
 </p>
 </div>
 </div>

@@ -9,7 +9,9 @@ page-order: 2
 <span class="title"><a class="text-info" href="https://coniks.cs.princeton.edu">CONIKS</a></span>
 is key management system for end users that improves the security and privacy of end-to-end secure communication services. By having communication service providers maintain tamper-evident and publicly auditable key directories on behalf of their users, CONIKS allows secure communication clients to verify users' keys automatically so users do not have to worry about the underlying encryption or trust their service provider to be well-behaved.
 <br/>
-This was my Master's thesis project.
+I wrote my Master's thesis on an early version of CONIKS.
+<br/>
+Our <a class="text-info" href="static/pubs/sec15-paper-melara.pdf">paper</a> on CONIKS won the 2017 Caspar Bowden PET Award.
 </p>
 
 <p>As a Master's student and undergraduate, I also worked on several <a class="text-info" href="prior-projects.html">prior projects</a>.
