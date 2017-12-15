@@ -45,7 +45,7 @@ ELARA: Environmental Liaison and Automated Recycling Assistant (<a class="text-i
 <p>
 Protecting the IoT Against Data Leaks through Intra-Process Access Control (<a class="text-info" href="static/pubs/s&pDay-poster.pdf">poster</a>) (<a class="text-info" href="static/pubs/s&pDay-blitz-presentation.pdf">slides</a>)
 <br/>
-<span class="label_gray">M. Melara. Stony Brook, National Security Institute Security & Privacy Day 2017.</span>
+<span class="label_gray">M. Melara. Stony Brook University, National Security Institute Security & Privacy Day 2017.</span>
 </p>
 <p>CONIKS: Bringing Key Transparency to End Users (<a class="text-info" href="static/pubs/coniks_usenix15_pres.pdf">slides</a>)
 <br/>
