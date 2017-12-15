@@ -11,7 +11,7 @@ CONIKS: Bringing Key Transparency to End Users (<a class="text-info" href="stati
 <br/>
 <span class="label_gray">M. Melara, A. Blankstein, J. Bonneau, E. Felten, M. Freedman. USENIX Security 2015.</span>
 <br/>
-<span class="text-success">Won the 2017 Caspar Bowden PET Award</span>
+<span class="text-success">Won the 2017 <a href="https://www.petsymposium.org/award/"><u>Caspar Bowden PET Award</u></a></span>
 </p>
 <p>
 Shining the Floodlights on Mobile Web Tracking — A Privacy Survey (<a class="text-info" href="static/pubs/s2p2.pdf">pdf</a>)
@@ -25,6 +25,7 @@ Vireos: an Integrated, Bottom-Up Educational Operating Systems Project with FPGA
 </p>
 </div>
 <br/>
+
 <h4 class="text-primary">Theses</h4><hr class="line"/>
 <div class="inner">
 <p>
