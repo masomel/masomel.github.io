@@ -1,4 +1,4 @@
-Title: Projects
+title: Projects
 URL: projects.html
 save_as: projects.html
 page-order: 2

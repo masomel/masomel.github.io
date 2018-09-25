@@ -41,6 +41,8 @@ THEME = 'style/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'cyborg'
 CUSTOM_CSS = 'static/my.css'
 
+PAGES = ['index.md', 'personal.md', 'prior-projects.md', 'projects.md', 'publications.md']
+
 # Tell Pelican to add 'style.css' to the output dir
 STATIC_PATHS = ['static/images', 'static/pubs', 'static/my.css', 'static/cv.pdf', 'static/pubkey_fp']
 

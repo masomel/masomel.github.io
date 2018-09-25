@@ -8,9 +8,7 @@ page-order: 4
 <p>
 I am from Miami, Florida, though I lived in Germany for over a decade as well.</p>
 <p> 
-I enjoy a wide variety of sports and outdoor activities including tennis, 
-taekwondo, yoga, rock climbing, hiking and alpine skiing. 
-Other interests I have are cooking and playing board games.
+These days, I spend most of my free time hanging out with my dog, hiking, cooking/baking, or playing board games.
 </p>
 </div>
 </div>
