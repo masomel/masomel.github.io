@@ -1,6 +1,7 @@
 Title: Prior Projects
 URL: prior-projects.html
 save_as: prior-projects.html
+page-order: 5
 status: hidden
 
 <div class="left">

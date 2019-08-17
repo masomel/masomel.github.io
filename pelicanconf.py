@@ -8,16 +8,9 @@ SITEURL = 'https://masomel.github.io'
 
 PATH = 'content'
 
-TIMEZONE = 'America/New_York'
+TIMEZONE = 'US/Pacific'
 
 DEFAULT_LANG = 'en'
-DEFAULT_DATE = 'fs'
-
-ARCHIVES_SAVE_AS = ''
-AUTHORS_SAVE_AS = ''
-TAGS_SAVE_AS = ''
-CATEGORIES_SAVE_AS = ''
-PAGE_ORDER_BY = 'page-order'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -25,7 +18,11 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-USE_OPEN_GRAPH = False
+PAGE_ORDER_BY = 'page-order'
+
+THEME = 'style/pelican-bootstrap3'
+BOOTSTRAP_THEME = 'cyborg'
+CUSTOM_CSS = 'static/my.css'
 
 # Blogroll
 LINKS = (('CONIKS Project', 'https://coniks.cs.princeton.edu'),)
@@ -37,11 +34,7 @@ SOCIAL = (('twitter', 'https://twitter.com/mas0mel'),
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
 
-THEME = 'style/pelican-bootstrap3'
-BOOTSTRAP_THEME = 'cyborg'
-CUSTOM_CSS = 'static/my.css'
-
-PAGES = ['index.md', 'personal.md', 'prior-projects.md', 'projects.md', 'publications.md']
+pages = ['index.md', 'personal.md', 'prior-projects.md', 'projects.md', 'publications.md']
 
 # Tell Pelican to add 'style.css' to the output dir
 STATIC_PATHS = ['static/images', 'static/pubs', 'static/my.css', 'static/cv.pdf', 'static/pubkey_fp']

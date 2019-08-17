@@ -68,12 +68,17 @@ Using FPGAs to Create a Complete Computer System for the Classroom (<a class="te
 </p>
 </div>
 <br/>
-<h4 class="text-primary">Other</h4><hr class="line"/>
+<h4 class="text-primary">Preprints and Blog Posts</h4><hr class="line"/>
 <div class="inner">
+<p>
+EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments (<a class="text-info" href="https://arxiv.org/abs/1907.13245">preprint</a>)
+<br/>
+<span class="label_gray">M. Melara, M. Freedman, and M. Bowman. ArXiv Preprint. July 2019.</span>
+</p>
 <p>
 Pyronia: Redesigning Least Privilege and Isolation for the Age of IoT (<a class="text-info" href="https://arxiv.org/abs/1903.01950">preprint</a>)
 <br/>
-<span class="label_gray">M. Melara, D. Liu, and M. Freedman. <i>In submission</i>, ArXiv Preprint. March 2019.</span>
+<span class="label_gray">M. Melara, D. Liu, and M. Freedman. ArXiv Preprint. March 2019.</span>
 </p>
 <p>
 Why Making Johnny's Key Management Transparent is So Challenging (<a class="text-info" href="https://freedom-to-tinker.com/2016/03/31/why-making-johnnys-key-management-transparent-is-so-challenging/">blog post</a>)
