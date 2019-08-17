@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Marcela Melara'
 SITENAME = 'Marcela Melara, PhD Student, CS Dept, Princeton University'
-SITEURL = 'https://www.cs.princeton.edu/~melara'
+SITEURL = 'https://masomel.github.io'
 
 PATH = 'content'
 

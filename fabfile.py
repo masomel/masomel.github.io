@@ -8,7 +8,7 @@ import SocketServer
 from pelican.server import ComplexHTTPRequestHandler
 
 # Local path configuration (can be absolute or relative to fabfile)
-env.deploy_path = 'output'
+env.deploy_path = '.'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
@@ -29,8 +29,7 @@ PORT = 8000
 def clean():
     """Remove generated files"""
     if os.path.isdir(DEPLOY_PATH):
-        shutil.rmtree(DEPLOY_PATH)
-        os.makedirs(DEPLOY_PATH)
+        os.system('rm '+DEPLOY_PATH+'/*.html')
 
 def build():
     """Build local version of site"""
