@@ -28,8 +28,10 @@ CUSTOM_CSS = 'static/my.css'
 LINKS = (('CONIKS Project', 'https://coniks.cs.princeton.edu'),)
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/mas0mel'),
-    ('github', 'https://github.com/masomel'),)
+SOCIAL = (
+    ('twitter', 'https://twitter.com/mas0mel'),
+    ('github', 'https://github.com/masomel'),
+)
 
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
