@@ -1,0 +1,50 @@
+.label_blue {
+font-weight: bold;
+font-size: 12pt;
+color: #2a9fd6;
+}
+
+.label_green {
+font-weight: bold;
+color: #66FF33;
+}
+
+.title {
+font-size: 16pt;
+}
+
+.line {
+border: none 0; 
+border-top: 1px solid #AAAAAA;
+height: 1px;
+margin: 10px auto 10px 0;
+}
+
+.label_gray {
+color: #AAAAAA;
+font-size: 14px;
+}
+
+.left {
+left: 15px;
+height: 100%;
+padding-top: 10px
+}
+
+.inner {
+margin-left: 15px;
+margin-right: 15px;
+}
+
+.footer {
+padding-top: 8px;
+padding-bottom: 8px;
+min-height: 60px
+}
+
+u {
+    border-bottom: 1px dotted;
+    text-decoration: none;
+}
+
+td {vertical-align: top}
