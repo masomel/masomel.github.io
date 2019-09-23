@@ -29,6 +29,11 @@ Vireos: an Integrated, Bottom-Up Educational Operating Systems Project with FPGA
 <h4 class="text-primary">Theses</h4><hr class="line"/>
 <div class="inner">
 <p>
+Intra-Process Least Privilege and Isolation for Emerging Applications (<a class="text-info" href="static/pubs/phd-thesis.pdf">pdf</a>)
+<br/>
+<span class="label_gray">M. Melara. PhD Dissertation. Princeton University, Department of Computer Science. <br/>Advisor: Michael J. Freedman. 2019.</span>
+</p>
+<p>
 CONIKS: Preserving Secure Communication with Untrusted Identity Providers (<a class="text-info" href="static/pubs/mse-thesis.pdf">pdf</a>)
 <br/>
 <span class="label_gray">M. Melara. Master's Thesis. Princeton University, Department of Computer Science. <br/>Advisor: Edward W. Felten. 2014.</span>
