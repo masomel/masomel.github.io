@@ -4,8 +4,32 @@ save_as: prior-projects.html
 page-order: 5
 status: hidden
 
+Here's a summary of some older research projects I worked on during my time at Princeton and HWS.
+You can find the code for some of these projects at my personal <a class='text-info' href="https://github.com/masomel">Github page</a>.
+
 <div class="left">
 <div class="inner">
+<p> <span class="title">Pyronia</span> is an intra-process compartmentalization system 
+for interpreted languages.
+Whenever an application attempts to access a system resource, our
+in-kernel system call monitor enforces a developer-supplied library access policy for that
+resource. Using the application runtime's current callstack as the context
+for the access, the monitor determines whether to allow the access
+according to the permissions given to the libraries found in the callstack.
+</p>
+
+<p>
+<a class="text-info" href="https://coniks.cs.princeton.edu">CONIKS</a> is a key management system for end
+users that improves the security and privacy of end-to-end secure
+communication services. By having communication service providers maintain
+tamper-evident and publicly auditable key directories on behalf of their
+users, CONIKS allows secure communication clients to verify users' keys
+automatically so users do not have to worry about the underlying encryption
+or trust their service provider to be well-behaved.
+<br/>
+This research was awarded the Caspar Bowden PET Award in 2017.
+</p>
+
 <p>
 The <span class="title">Mobile Web Tracking Survey</span>
 compares mobile web tracking practices with web tracking on desktops. Using a web crawler based on <a class="text-info" href="http://fourthparty.info">FourthParty</a>, we gathered web tracking data, such as cookies, on popular mobile devices.

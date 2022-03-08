@@ -4,8 +4,28 @@ save_as: publications.html
 page-order: 3
 
 <div class="left">
-<h4 class="text-primary">Refereed Publications</h4><hr class="line"/>
+<h4 class="text-primary">Publications</h4><hr class="line"/>
 <div class="inner">
+<p>
+Hardware-Enforced Integrity and Provenance for Distributed Code Deployments (<a class="text-info" href="https://arxiv.org/abs/2106.09843">pdf</a>)
+<br/>
+<span class="label_gray">M. Melara and M. Bowman. NIST Workshop on Enhancing Software Supply Chain Security. June 2021.</span>
+</p>
+<p>
+Enabling Security-Oriented Orchestration of Microservices (<a class="text-info" href="https://arxiv.org/abs/2106.09841">preprint</a>)
+<br/>
+<span class="label_gray">M. Melara and M. Bowman. ArXiv Preprint. May 2021.</span>
+</p>
+<p>
+EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments (<a class="text-info" href="https://arxiv.org/abs/1907.13245">preprint</a>)
+<br/>
+<span class="label_gray">M. Melara, M. Freedman, and M. Bowman. ArXiv Preprint. July 2019.</span>
+</p>
+<p>
+Pyronia: Redesigning Least Privilege and Isolation for the Age of IoT (<a class="text-info" href="https://arxiv.org/abs/1903.01950">preprint</a>)
+<br/>
+<span class="label_gray">M. Melara, D. Liu, and M. Freedman. ArXiv Preprint. March 2019.</span>
+</p>
 <p>
 CONIKS: Bringing Key Transparency to End Users (<a class="text-info" href="static/pubs/sec15-paper-melara.pdf">pdf</a>)
 <br/>
@@ -73,22 +93,22 @@ Using FPGAs to Create a Complete Computer System for the Classroom (<a class="te
 </p>
 </div>
 <br/>
-<h4 class="text-primary">Preprints and Blog Posts</h4><hr class="line"/>
+<h4 class="text-primary">Blog Posts</h4><hr class="line"/>
 <div class="inner">
 <p>
-EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments (<a class="text-info" href="https://arxiv.org/abs/1907.13245">preprint</a>)
-<br/>
-<span class="label_gray">M. Melara, M. Freedman, and M. Bowman. ArXiv Preprint. July 2019.</span>
-</p>
-<p>
-Pyronia: Redesigning Least Privilege and Isolation for the Age of IoT (<a class="text-info" href="https://arxiv.org/abs/1903.01950">preprint</a>)
-<br/>
-<span class="label_gray">M. Melara, D. Liu, and M. Freedman. ArXiv Preprint. March 2019.</span>
-</p>
-<p>
-Why Making Johnny's Key Management Transparent is So Challenging (<a class="text-info" href="https://freedom-to-tinker.com/2016/03/31/why-making-johnnys-key-management-transparent-is-so-challenging/">blog post</a>)
+<a class="text-info" href="https://freedom-to-tinker.com/2016/03/31/why-making-johnnys-key-management-transparent-is-so-challenging/">Why Making Johnny's Key Management Transparent is So Challenging</a>
 <br/>
 <span class="label_gray">M. Melara. Freedom to Tinker. March 2016.</span>
+</p>
+<p>
+<a class="text-info" href="https://grandcentralblog.wordpress.com/2010/11/05/guest-blogger-marcela-melara-2/">There's Something Wrong With This Picture...</a>
+<br/>
+<span class="label_gray">M. Melara. Guest blogger, Grand Central Blog. November 2010.</span>
+</p>
+<p>
+<a class="text-info" href="https://grandcentralblog.wordpress.com/2010/10/30/guest-blogger-marcela-melara/">Busy Moms Need Energy</a>
+<br/>
+<span class="label_gray">M. Melara. Guest blogger, Grand Central Blog. October 2010.</span>
 </p>
 </div>
 </div>

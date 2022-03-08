@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Marcela Melara'
-SITENAME = 'Marcela Melara, PhD Student, CS Dept, Princeton University'
+SITENAME = 'Marcela Melara, Research Scientist, Intel Labs'
 SITEURL = 'https://masomel.github.io'
 
 PATH = 'content'
@@ -21,14 +21,14 @@ AUTHOR_FEED_RSS = None
 PAGE_ORDER_BY = 'page-order'
 
 THEME = 'style/pelican-bootstrap3'
-BOOTSTRAP_THEME = 'cyborg'
+BOOTSTRAP_THEME = 'lumen'
 CUSTOM_CSS = 'static/my.css'
 
 # Blogroll
-LINKS = (('CONIKS Project', 'https://coniks.cs.princeton.edu'),)
+LINKS = (('CONIKS Project', 'https://coniks.org'),)
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/mas0mel'),('github', 'https://github.com/masomel'),)
+SOCIAL = (('twitter', 'https://twitter.com/mas0mel'),('github', 'https://github.com/marcelamelara'),)
 
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False

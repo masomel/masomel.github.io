@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-    <title>Prior Projects - Marcela Melara, PhD Student, CS Dept, Princeton University</title>
+    <title>Prior Projects - Marcela Melara, Research Scientist, Intel Labs</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -12,25 +12,23 @@
 <link rel="canonical" href="https://masomel.github.io/prior-projects.html">
 
         <meta name="author" content="Marcela Melara" />
-        <meta name="description" content="The Mobile Web Tracking Survey compares mobile web tracking practices with web tracking on desktops. Using a web crawler based on FourthParty, we gathered web tracking data, such as cookies, on popular mobile devices. This work was the first major study of what is now the Princeton Web Transparency and …" />
+        <meta name="description" content="Here&#39;s a summary of some older research projects I worked on during my time at Princeton and HWS. You can find the code for some of these projects at my personal Github page. Pyronia is an intra-process compartmentalization system for interpreted languages. Whenever an application attempts to access a system …" />
 
-    <meta property="og:site_name" content="Marcela Melara, PhD Student, CS Dept, Princeton University" />
+    <meta property="og:site_name" content="Marcela Melara, Research Scientist, Intel Labs" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Prior Projects"/>
     <meta property="og:url" content="https://masomel.github.io/prior-projects.html"/>
-    <meta property="og:description" content="The Mobile Web Tracking Survey compares mobile web tracking practices with web tracking on desktops. Using a web crawler based on FourthParty, we gathered web tracking data, such as cookies, on popular mobile devices. This work was the first major study of what is now the Princeton Web Transparency and …" />
+    <meta property="og:description" content="Here&#39;s a summary of some older research projects I worked on during my time at Princeton and HWS. You can find the code for some of these projects at my personal Github page. Pyronia is an intra-process compartmentalization system for interpreted languages. Whenever an application attempts to access a system …" />
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="https://masomel.github.io/theme/css/bootstrap.cyborg.min.css" type="text/css"/>
+        <link rel="stylesheet" href="https://masomel.github.io/theme/css/bootstrap.lumen.min.css" type="text/css"/>
     <link href="https://masomel.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="https://masomel.github.io/theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="https://masomel.github.io/theme/css/style.css" type="text/css"/>
         <link href="https://masomel.github.io/static/my.css" rel="stylesheet">
 
-        <link href="https://masomel.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
-              title="Marcela Melara, PhD Student, CS Dept, Princeton University ATOM Feed"/>
 
 
 
@@ -81,8 +79,31 @@
         <h1 class="entry-title">Prior Projects</h1>
         
         <div class="entry-content">
-            <div class="left">
+            <p>Here's a summary of some older research projects I worked on during my time at Princeton and HWS.
+You can find the code for some of these projects at my personal <a class='text-info' href="https://github.com/masomel">Github page</a>.</p>
+<div class="left">
 <div class="inner">
+<p> <span class="title">Pyronia</span> is an intra-process compartmentalization system 
+for interpreted languages.
+Whenever an application attempts to access a system resource, our
+in-kernel system call monitor enforces a developer-supplied library access policy for that
+resource. Using the application runtime's current callstack as the context
+for the access, the monitor determines whether to allow the access
+according to the permissions given to the libraries found in the callstack.
+</p>
+
+<p>
+<a class="text-info" href="https://coniks.cs.princeton.edu">CONIKS</a> is a key management system for end
+users that improves the security and privacy of end-to-end secure
+communication services. By having communication service providers maintain
+tamper-evident and publicly auditable key directories on behalf of their
+users, CONIKS allows secure communication clients to verify users' keys
+automatically so users do not have to worry about the underlying encryption
+or trust their service provider to be well-behaved.
+<br/>
+This research was awarded the Caspar Bowden PET Award in 2017.
+</p>
+
 <p>
 The <span class="title">Mobile Web Tracking Survey</span>
 compares mobile web tracking practices with web tracking on desktops. Using a web crawler based on <a class="text-info" href="http://fourthparty.info">FourthParty</a>, we gathered web tracking data, such as cookies, on popular mobile devices.
@@ -125,7 +146,7 @@ I presented this work at the 2011 New York Conference for Women in Computing (NY
                 <a href="static/pubkey_fp"><i class="fa fa-key fa-small"></i> PGP</a></li>
                 <li class="list-group-item">
                 <a href="https://twitter.com/mas0mel"><i class="fa fa-twitter-square fa-2x"></i></a>
-                <a href="https://github.com/masomel"><i class="fa fa-github-square fa-2x"></i></a>
+                <a href="https://github.com/marcelamelara"><i class="fa fa-github-square fa-2x"></i></a>
                 </li>
               </ul>
             </li>
@@ -137,7 +158,7 @@ I presented this work at the 2011 New York Conference for Women in Computing (NY
     <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
       <ul class="list-group" id="links">
         <li class="list-group-item">
-            <a href="https://coniks.cs.princeton.edu" target="_blank">
+            <a href="https://coniks.org" target="_blank">
                 CONIKS Project
             </a>
         </li>
