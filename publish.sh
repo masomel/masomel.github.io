@@ -12,6 +12,7 @@ sudo pip3 install --upgrade Jinja2
 
 wget https://github.com/masomel/pelican-themes/archive/refs/heads/main.zip -P /tmp
 unzip /tmp/main.zip
+mv pelican-themes-main pelican-themes
 
 # publish to github pages
 #ghp-import -m "Generate Pelican site" -b gh-pages output
