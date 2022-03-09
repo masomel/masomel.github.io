@@ -17,4 +17,3 @@ unzip /tmp/main.zip
 #ghp-import -m "Generate Pelican site" -b gh-pages output
 
 make html
-
