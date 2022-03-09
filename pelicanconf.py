@@ -21,7 +21,7 @@ AUTHOR_FEED_RSS = None
 
 PAGES_SORT_ATTRIBUTE = 'page-order'
 
-THEME = 'style/pelican-themes/pelican-bootstrap3'
+THEME = 'pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'cerulean'
 CUSTOM_CSS = 'static/my.css'
 
