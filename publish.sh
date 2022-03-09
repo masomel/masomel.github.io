@@ -18,7 +18,7 @@ wget https://github.com/getpelican/pelican-plugins/archive/refs/heads/master.zip
 unzip /tmp/master.zip
 mv pelican-plugins-master pelican-plugins
 
-# publish to github pages
-#ghp-import -m "Generate Pelican site" -b gh-pages output
-
 make html
+
+# publish to github pages
+ghp-import -n -o -m "Generate Pelican site" -b gh-pages output
