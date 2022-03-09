@@ -14,6 +14,10 @@ wget https://github.com/masomel/pelican-themes/archive/refs/heads/main.zip -P /t
 unzip /tmp/main.zip
 mv pelican-themes-main pelican-themes
 
+wget https://github.com/getpelican/pelican-plugins/archive/refs/heads/master.zip -P /tmp
+unzip /tmp/master.zip
+mv pelican-plugins-master pelican-plugins
+
 # publish to github pages
 #ghp-import -m "Generate Pelican site" -b gh-pages output
 

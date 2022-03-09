@@ -26,7 +26,7 @@ BOOTSTRAP_THEME = 'cerulean'
 CUSTOM_CSS = 'static/my.css'
 
 # Needed for pelican-bootstrap3 theme to build
-PLUGIN_PATHS = ['/Users/marcelamelara/pelican-plugins', ]
+PLUGIN_PATHS = ['pelican-plugins', ]
 PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
