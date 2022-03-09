@@ -1,0 +1,17 @@
+name: publish-site
+on:
+    push:
+        branches: [main]
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Check out repo
+              uses: actions/checkout@v2
+
+            - name: Set up permissions
+              run: chmod 755 ./publish.sh
+              
+            - name: Run script
+              run: ./publish.sh
