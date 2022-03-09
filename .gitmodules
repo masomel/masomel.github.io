@@ -1,3 +1,0 @@
-[submodule "style/pelican-themes"]
-	path = style/pelican-themes
-	url = git@github.com:masomel/pelican-themes.git
