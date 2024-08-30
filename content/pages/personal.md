@@ -1,14 +1,14 @@
 Title: Personal
 URL: personal.html
 save_as: personal.html
-page-order: 4
+page-order: 5
 
 <div class="left">
 <div class="inner">
 <p>
-I am Salvadoran-American from Miami, Florida, currently living in the Portland, OR area. I also lived in Germany for over a decade. I'm fluent in English, Spanish, and German, and decent at French, which I studied once upon a time in high school and college.</p>
+I'm Salvadoran-American from Miami, Florida, currently living in the Portland, OR area. I also lived in Germany for over a decade. I'm fluent in English, Spanish, and German, and decent at French, which I studied once upon a time in high school and college.</p>
 <p> 
-These days, I spend most of my free time hanging out with my family and two dogs, taking care of my plantitas, reading books (mostly fantasy and history), writing fiction or poetry, hiking, or playing DnD. I'm also a huge language nerd, so one of my newest past-times is learning Japanese.
+These days, I like to spend my free time with my family and two dogs, tending to my garden, writing fiction and poetry, hiking, or trying my hand at those dessert recipes that aren't going to make themselves. I'm also a huge language/linguistics nerd, so one of my current hobbies is learning Japanese.
 </p>
 </div>
 </div>
