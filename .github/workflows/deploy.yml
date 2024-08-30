@@ -18,7 +18,7 @@ jobs:
               run: ./publish.sh
             - name: Upload artifacts
               uses: actions/upload-pages-artifact@v2
-              path: "output/"
+                path: "output/"
 
     # Deployment job
     deploy:
