@@ -18,6 +18,7 @@ wget https://github.com/getpelican/pelican-plugins/archive/refs/heads/master.zip
 unzip /tmp/master.zip
 mv pelican-plugins-master pelican-plugins
 
+mkdir -p output
 make html
 
 # publish to github pages
