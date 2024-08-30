@@ -20,6 +20,3 @@ mv pelican-plugins-master pelican-plugins
 
 mkdir -p output
 make html
-
-# publish to github pages
-ghp-import -n -p -o -m "Generate Pelican site" -b gh-pages output
