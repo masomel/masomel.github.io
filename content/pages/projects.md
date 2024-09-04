@@ -3,7 +3,7 @@ URL: projects.html
 save_as: projects.html
 page-order: 2
 
-Here's a summary of my ongoing and recent research projects. You can also visit my <a class='text-info' href="https://github.com/marcelamelara">Github page</a> to see what OSS projects I contribute to.
+Here's a summary of my ongoing and recent research projects. You can also visit my <a class='text-info' href="https://github.com/marcelamelara">Github page</a> to see what OSS projects I currently contribute to.
 
 <div class="left">
 <h4 class="text-primary">Code Deployment Integrity</h4><hr class="line"/>

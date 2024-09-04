@@ -3,7 +3,7 @@ URL: service.html
 save_as: service.html
 page-order: 4
 
-< class="left">
+<div class="left">
 <div class="inner">
 <p>OpenSSF Technical Advisory Council, 2024-present.
 <p>ACM SCORED Co-Chair, 2022-23. Steering Committee, 2024-present.
