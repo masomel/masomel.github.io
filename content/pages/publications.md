@@ -3,13 +3,15 @@ URL: publications.html
 save_as: publications.html
 page-order: 3
 
+For the most recent list of papers and patents, visit my <a class="text-info" href="https://scholar.google.com/citations?user=_YKwSB0AAAAJ&hl=en">Google Scholar</a> page.
+
 <div class="left">
-<h4 class="text-primary">Publications</h4><hr class="line"/>
+<h4 class="text-primary">Papers</h4><hr class="line"/>
 <div class="inner">
 <p>
-SoK: A Defense-Oriented Evaluation of Software Supply Chain Security (<a class="text-info" href="https://arxiv.org/pdf/2405.14993">pdf</a>)
+SoK: A Defense-Oriented Evaluation of Software Supply Chain Security (<a class="text-info" href="https://arxiv.org/pdf/2405.14993">preprint</a>)
 <br/>
-<span class="label_gray">, E. Ishgair, M. Melara and S. Torres Arias. ArXiv Preprint. May 2024.</span>
+<span class="label_gray">E. Ishgair, M. Melara and S. Torres Arias. ArXiv Preprint. May 2024.</span>
 </p>
 
 <p>
@@ -63,25 +65,31 @@ Vireos: an Integrated, Bottom-Up Educational Operating Systems Project with FPGA
 <p>
 Auditing the CI/CD Platform: Reproducible Builds vs. Hardware-Attested Build Environments, Which is Right for You?
 <br/>
-<span class="label_gray">M. Melara, C. Kimes. *To appear* ACM SCORED 2024.</span>
+<span class="label_gray">M. Melara, C. Kimes. *To appear* ACM SCORED '24. Oct 2024.</span>
 </p>
 
 <p>
 TPMs, Merkle Trees and TEEs: Enhancing SLSA with Hardware-Assisted Build Environment Verification (<a class="text-info" href="static/pubs/habe@ossna2024.pdf">slides</a>) (<a class="text-info" href="https://www.youtube.com/watch?v=Gk0LDi05KRg">video</a>)
 <br/>
-<span class="label_gray">M. Melara, C. Kimes. Open Source Summit NA 2024.</span>
+<span class="label_gray">M. Melara, C. Kimes. Open Source Summit NA. Apr 2024.</span>
 </p>
 
 <p>
 Panel Discussion: Improving Supply Chain Integrity with OpenSSF Technologies (<a class="text-info" href="https://www.youtube.com/watch?v=6EPROzPfqD8&t=3s">video</a>)
 <br/>
-<span class="label_gray">A. Le Hors, M. Lieberman, J. White, M. Melara, I. Hepworth. Open Source Summit NA 2024.</span>
+<span class="label_gray">A. Le Hors, M. Lieberman, J. White, M. Melara, I. Hepworth. Open Source Summit NA. Apr 2024.</span>
+</p>
+
+<p>
+Panel Discussion: DEI for the OpenSSF Community (<a class="text-info" href="https://www.youtube.com/watch?v=OZhcpWxzJaA">video</a>)
+<br/>
+<span class="label_gray">M. McElaney, J. Kjell, J. White, C. Voong, M. Melara. SOSS Community Day NA. Apr 2024.</span>
 </p>
 
 <p>
 All things in-toto! Supply chain attestations, policies, and adoption stories, oh my! (<a class="text-info" href="static/pubs/in-toto@kccnc2023.pdf">slides</a>) (<a class="text-info" href="https://www.youtube.com/watch?v=wuB--26-WpM">video</a>)
 <br/>
-<span class="label_gray">M. Melara, S. Torres Arias. KubeCon & CloudNativeCon NA 2023.</span>
+<span class="label_gray">M. Melara, S. Torres Arias. KubeCon & CloudNativeCon NA. Nov 2023.</span>
 </p>
 
 <p>
@@ -91,7 +99,19 @@ Securing the Software Supply Chain: An In-Depth Exploration of SLSA (<a class="t
 </p>
 
 <p>
-EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments (<a class="text-info" href="static/pubs/in-toto@kccnc2023.pdf">slides</a>) (<a class="text-info" href="https://www.youtube.com/watch?v=wuB--26-WpM">video</a>)
+Building Trust with Attestation (<a class="text-info" href="https://openatintel.podbean.com/e/building-trust-with-attestation/">podcast</a>)
+<br/>
+<span class="label_gray">M. Melara, V. Scarlata. Open at Intel Podcast. May 2023.</span>
+</p>
+
+<p>
+Software Supply Chains (<a class="text-info" href="https://openatintel.podbean.com/e/software-supply-chains/">podcast</a>)
+<br/>
+<span class="label_gray">M. Melara, B. Domingues. Open at Intel Podcast. Mar 2023.</span>
+</p>
+
+<p>
+EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments
 <br/>
 <span class="label_gray">M. Melara. Microsoft Research Cryptography & Privacy Colloqium. Sep 2020.</span>
 </p>
@@ -107,18 +127,27 @@ Using FPGAs to Create a Complete Computer System for the Classroom (<a class="te
 
 <h4 class="text-primary">Blog Posts</h4><hr class="line"/>
 <div class="inner">
+
 <p>
-<a class="text-info" href="https://freedom-to-tinker.com/2016/03/31/why-making-johnnys-key-management-transparent-is-so-challenging/">Why Making Johnny's Key Management Transparent is So Challenging</a>
+The Opportunity for DEI Participation in the Security Industry (And OpenSSF) (<a class="text-info" href="https://openssf.org/blog/2024/05/29/the-opportunity-for-dei-participation-in-the-security-industry-and-openssf/">post</a>)
+<br/>
+<span class="label_gray">C. Voong, J. White, J. Kjell, M. Melara, M. McElaney. OpenSSF Blog. May 2024.</span>
+</p>
+
+<p>
+Why Making Johnny's Key Management Transparent is So Challenging (<a class="text-info" href="https://freedom-to-tinker.com/2016/03/31/why-making-johnnys-key-management-transparent-is-so-challenging/">post</a>)
 <br/>
 <span class="label_gray">M. Melara. Freedom to Tinker. March 2016.</span>
 </p>
+
 <p>
-<a class="text-info" href="https://grandcentralblog.wordpress.com/2010/11/05/guest-blogger-marcela-melara-2/">There's Something Wrong With This Picture...</a>
+There's Something Wrong With This Picture... (<a class="text-info" href="https://grandcentralblog.wordpress.com/2010/11/05/guest-blogger-marcela-melara-2/">post</a>)
 <br/>
 <span class="label_gray">M. Melara. Guest blogger, Grand Central Blog. November 2010.</span>
 </p>
+
 <p>
-<a class="text-info" href="https://grandcentralblog.wordpress.com/2010/10/30/guest-blogger-marcela-melara/">Busy Moms Need Energy</a>
+Busy Moms Need Energy (<a class="text-info" href="https://grandcentralblog.wordpress.com/2010/10/30/guest-blogger-marcela-melara/">post</a>)
 <br/>
 <span class="label_gray">M. Melara. Guest blogger, Grand Central Blog. October 2010.</span>
 </p>
