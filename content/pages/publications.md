@@ -5,6 +5,13 @@ page-order: 3
 
 For the most recent list of papers and patents, visit my <a class="text-info" href="https://scholar.google.com/citations?user=_YKwSB0AAAAJ&hl=en">Google Scholar</a> page.
 
+## Papers
+---
+
+SoK: A Defense-Oriented Evaluation of Software Supply Chain Security ([preprint](https://arxiv.org/pdf/2405.14993))
+<br>
+E. Ishgair, M. Melara and S. Torres Arias. ArXiv Preprint. May 2024.
+
 <div class="left">
 <h4 class="text-primary">Papers</h4><hr class="line"/>
 <div class="inner">
