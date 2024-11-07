@@ -49,9 +49,9 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 ### Conference Talks
 ---
 
-"Auditing the CI/CD Platform: Reproducible Builds vs. Hardware-Attested Build Environments, Which is Right for You?"
+"Auditing the CI/CD Platform: Reproducible Builds vs. Hardware-Attested Build Environments, Which is Right for You?" (<a class="text-info" href="https://docs.google.com/presentation/d/1TddXWjBteTkzZAEZ3Y6Olt3VB46ool8v9g9YjxYn2X8/edit?usp=sharing">slides</a>)
 <br>
-<span class="label_gray">**M. S. Melara**, C. Kimes. *To appear ACM SCORED '24*. Oct 2024.</span>
+<span class="label_gray">**M. S. Melara**, C. Kimes. *ACM SCORED '24*. Oct 2024.</span>
 
 "TPMs, Merkle Trees and TEEs: Enhancing SLSA with Hardware-Assisted Build Environment Verification" (<a class="text-info" href="static/pubs/habe@ossna2024.pdf">slides</a>) (<a class="text-info" href="https://www.youtube.com/watch?v=Gk0LDi05KRg">video</a>)
 <br>
@@ -76,6 +76,10 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 ### Invited Talks
 ---
 
+"Understanding the Software Supply Chain Trust Landscape" (<a class="text-info" href="static/pubs/SWSCEcosystemOverview.pdf">slides</a>)
+<br>
+<span class="label_gray">**M. Melara**. *C2PA Conformance Working Group*. Jul 2024.</span>
+
 "Securing the Software Supply Chain: An In-Depth Exploration of SLSA" (<a class="text-info" href="https://www.youtube.com/watch?v=HHXPEWvfFwk">video</a>)
 <br>
 <span class="label_gray">M. Lieberman, **M. Melara**, J. Lock, L. Capadan. *OpenSSF Tech Talk*. Oct 2023.</span>
@@ -88,7 +92,7 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 <br>
 <span class="label_gray">**M. Melara**, B. Domingues. *Open at Intel Podcast*. Mar 2023.</span>
 
-"EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments"
+"EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments" (<a class="text-info" href="static/pubs/enclavedom-talk.pdf">slides</a>)
 <br>
 <span class="label_gray">**M. Melara**. *Microsoft Research Cryptography & Privacy Colloqium*. Sep 2020.</span>
 
