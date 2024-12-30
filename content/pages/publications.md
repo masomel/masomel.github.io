@@ -99,6 +99,10 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 ### Blog Posts
 ---
 
+"Building Trust in AI: An End-to-End Approach for the Machine Learning Model Lifecycle" (<a class="text-info" href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Building-Trust-in-AI-An-End-to-End-Approach-for-the-Machine/post/1648746">post</a>)
+<br>
+<span class="label_gray">M. Spoczynski, **M. Melara**, S. Szyller. *Intel Community Tech Innovation Blog*. Dec 2024.</span>
+
 "The Opportunity for DEI Participation in the Security Industry (And OpenSSF)" (<a class="text-info" href="https://openssf.org/blog/2024/05/29/the-opportunity-for-dei-participation-in-the-security-industry-and-openssf/">post</a>)
 <br>
 <span class="label_gray">C. Voong, J. White, J. Kjell, **M. Melara**, M. McElaney. *OpenSSF Blog*. May 2024.</span>
