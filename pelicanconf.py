@@ -36,7 +36,7 @@ JINJA_ENVIRONMENT = {
 #LINKS = (('CONIKS Project', 'https://coniks.org'),)
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/mas0mel'),('github', 'https://github.com/marcelamelara'),)
+SOCIAL = (('github', 'https://github.com/marcelamelara'),('linkedin', 'https://www.linkedin.com/in/marcela-melara-285a4678'))
 
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
