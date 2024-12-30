@@ -96,6 +96,25 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 <br>
 <span class="label_gray">**M. Melara**. *Microsoft Research Cryptography & Privacy Colloqium*. Sep 2020.</span>
 
+### Patents
+---
+
+"Concept for Performing Operations on an Asset."
+<br>
+<span class="label_gray">C. M. Bowman, P. Narayana Moorthy, B. Vavala, **M. S. Melara**. *US Patent Application 18/343,797*. 2024.</span>
+
+"Method and apparatus for multi-dimensional attestation for a software application."
+<br>
+<span class="label_gray">**M. S. Melara**, B. Vavala, M. Steiner, V. Scarlata, A. L. Vahldiek-Oberwagner. *US Patent Application 18/311,253*. 2023.</span>
+
+"Attestation of operations by tool chains."
+<br>
+<span class="label_gray">V. Scarlata, A. Trivedi, R. Lal, **M. S. Melara**, M. Steiner, A. L. Vahldiek-Oberwagner. *US Patent 11650800*. 2023.</span>
+
+"Optimizing deployment and security of microservices."
+<br>
+<span class="label_gray">P. Saxena, A. L. Vahldiek-Oberwagner, M. Vij, K. A Doshi, C. H. Morales, C. M. Bowman, **M. S. Melara**, M. Steiner. *US Patent Application 17/561,676*. 2022.</span>
+
 ### Blog Posts
 ---
 
