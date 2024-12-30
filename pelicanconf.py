@@ -46,7 +46,8 @@ pages = ['index.md', 'personal.md', 'prior-projects.md', 'projects.md', 'publica
 # Tell Pelican to add 'style.css' to the output dir
 STATIC_PATHS = ['static/images', 'static/pubs', 'static/my.css', 'static/cv.pdf']
 
-SIDEBAR_IMAGES = ['static/images/marcela.jpg']
+SIDEBAR_IMAGES_HEADER =	 ''
+SIDEBAR_IMAGES = (('static/images/marcela.jpg',''))
 DISABLE_SIDEBAR_TITLE_ICONS = True
 
 # Uncomment following line if you want document-relative URLs when developing
