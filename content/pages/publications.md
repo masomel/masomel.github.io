@@ -10,11 +10,11 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 
 "Proving Attributes about Confidential Compute Services with Validation and Endorsement Services" (<a class="text-info" href="static/pubs/systex25-ves.pdf">pdf</a>)
 <br>
-<span class="label_gray">A. Vahldiek-Oberwagner, **M. S. Melara**. To appear at **IEEE SysTEX*. July 2025.</span>
+<span class="label_gray">A. Vahldiek-Oberwagner, **M. S. Melara**. To appear at *IEEE SysTEX*. July 2025.</span>
 
 "Atlas: A Framework for ML Lifecycle Provenance & Transparency" (<a class="text-info" href="static/pubs/systex25-atlas.pdf">pdf</a>)
 <br>
-<span class="label_gray">M. Spoczynski, **M. S. Melara**, S. Szyller. To appear at **IEEE SysTEX*. July 2025.</span>
+<span class="label_gray">M. Spoczynski, **M. S. Melara**, S. Szyller. To appear at *IEEE SysTEX*. July 2025.</span>
 
 "SoK: A Defense-Oriented Evaluation of Software Supply Chain Security" (<a class="text-info" href="https://arxiv.org/pdf/2405.14993">preprint</a>)
 <br>
