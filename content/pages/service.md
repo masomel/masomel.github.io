@@ -10,6 +10,7 @@ page-order: 4
 <p>OpenSSF BEAR (Belonging, Empowerment, Allyship, Representation) WG Co-Chair, 2024-present.
 <p>OpenSSF SLSA Specification maintainer, 2024-present.
 <p>CNCF in-toto Attestation Framework maintainer, 2023-present.
+<p>Open Source SecurityCon NA Program Committee, 2025.
 <p>OpenSSF Community Day NA Program Committee, 2025.
 <p>ACM EuroSec Program Committee, 2024-25.
 <p>LF SigstoreCon Program Committee, 2024.

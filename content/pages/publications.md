@@ -8,21 +8,25 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 ### Papers
 ---
 
+"Trustworthy and Confidential SBOM Exchange" (<a class="text-info" href="https://arxiv.org/pdf/2509.13217">preprint</a>)
+<br>
+<span class="label_gray">E. Abu Ishgair, Chinenye Okafor, **M. S. Melara** and S. Torres-Arias. *ArXiv Preprint*. Sep 2025.</span>
+
 "Proving Attributes about Confidential Compute Services with Validation and Endorsement Services" (<a class="text-info" href="static/pubs/systex25-ves.pdf">pdf</a>)
 <br>
-<span class="label_gray">A. Vahldiek-Oberwagner, **M. S. Melara**. To appear at *IEEE SysTEX*. July 2025.</span>
+<span class="label_gray">A. Vahldiek-Oberwagner, **M. S. Melara**. *IEEE 8th Workshop on System Software for Trusted Execution (SysTEX)*. July 2025.</span>
 
 "Atlas: A Framework for ML Lifecycle Provenance & Transparency" (<a class="text-info" href="static/pubs/systex25-atlas.pdf">pdf</a>)
 <br>
-<span class="label_gray">M. Spoczynski, **M. S. Melara**, S. Szyller. To appear at *IEEE SysTEX*. July 2025.</span>
+<span class="label_gray">M. Spoczynski, **M. S. Melara**, S. Szyller. *IEEE 8th Workshop on System Software for Trusted Execution (SysTEX)*. July 2025.</span>
 
 "SoK: A Defense-Oriented Evaluation of Software Supply Chain Security" (<a class="text-info" href="https://arxiv.org/pdf/2405.14993">preprint</a>)
 <br>
-<span class="label_gray">E. Ishgair, **M. S. Melara** and S. Torres Arias. *ArXiv Preprint*. May 2024.</span>
+<span class="label_gray">E. Abu Ishgair, **M. S. Melara** and S. Torres-Arias. *ArXiv Preprint*. May 2024.</span>
 
 "A Viewpoint on Software Supply Chain Security: Are We Getting Lost in Translation?" (<a class="text-info" href="https://ieeexplore.ieee.org/abstract/document/10315780">article</a>)
 <br>
-<span class="label_gray">**M. S. Melara** and S. Torres Arias. *IEEE Security & Privacy*, Vol. 21, Issue 6. Nov 2023.</span>
+<span class="label_gray">**M. S. Melara** and S. Torres-Arias. *IEEE Security & Privacy*, Vol. 21, Issue 6. Nov 2023.</span>
 
 "Hardware-Enforced Integrity and Provenance for Distributed Code Deployments" (<a class="text-info" href="https://arxiv.org/abs/2106.09843">pdf</a>)
 <br>
@@ -57,9 +61,21 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 ### Conference Talks
 ---
 
+"The Whole Is Greater Than the Sum of Its Parts: A Case for Interoperable Supply Chain Tooling"
+<br>
+<span class="label_gray">Hayden Blauzvern and **M. Melara** To appear at *Open Source SecurityCon*. Nov 2025.</span>
+
+"Harnessing in-toto Attestations for Security and Compliance With Next-gen Policies" (<a class="text-info" href="https://static.sched.com/hosted_files/openssfcdna2025/93/OpenSSF%20Community%20Day%20NA%202025_%20in-toto%20policies%20%5BPUBLIC%5D.pdf">slides</a>) (<a class="text-info" href="https://www.youtube.com/watch?v=lX_sAD68k2Q">video</a>)
+<br>
+<span class="label_gray">**M. Melara** and T. Karthik Kuppusamy *OpenSSF Community Day NA*. Jun 2025.</span>
+
+"Building Trust in ML: Mapping the Model Lifecycle for ML Integrity and Transparency" (<a class="text-info" href="https://static.sched.com/hosted_files/ossna2025/01/OSS-NA-25-Atlas-final.pdf?_gl=1*1x0hrgg*_gcl_au*MjA3MTU3NzQxMy4xNzU4MjU0MjAz*FPAU*MjA3MTU3NzQxMy4xNzU4MjU0MjAz">slides</a>) (<a class="text-info" href="https://www.youtube.com/watch?v=FNpkbOOghe4">video</a>)
+<br>
+<span class="label_gray">**M. S. Melara** *Open Source Summit NA*. Jun 2025.</span>
+
 "Auditing the CI/CD Platform: Reproducible Builds vs. Hardware-Attested Build Environments, Which is Right for You?" (<a class="text-info" href="https://docs.google.com/presentation/d/1TddXWjBteTkzZAEZ3Y6Olt3VB46ool8v9g9YjxYn2X8/edit?usp=sharing">slides</a>)
 <br>
-<span class="label_gray">**M. S. Melara**, C. Kimes. *ACM SCORED '24*. Oct 2024.</span>
+<span class="label_gray">**M. S. Melara**, C. Kimes. *ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED)*. Oct 2024.</span>
 
 "TPMs, Merkle Trees and TEEs: Enhancing SLSA with Hardware-Assisted Build Environment Verification" (<a class="text-info" href="static/pubs/habe@ossna2024.pdf">slides</a>) (<a class="text-info" href="https://www.youtube.com/watch?v=Gk0LDi05KRg">video</a>)
 <br>
@@ -75,7 +91,7 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 
 "All things in-toto! Supply chain attestations, policies, and adoption stories, oh my!" (<a class="text-info" href="static/pubs/in-toto@kccnc2023.pdf">slides</a>) (<a class="text-info" href="https://www.youtube.com/watch?v=wuB--26-WpM">video</a>)
 <br>
-<span class="label_gray">**M. Melara**, S. Torres Arias. *KubeCon & CloudNativeCon NA*. Nov 2023.</span>
+<span class="label_gray">**M. Melara**, S. Torres-Arias. *KubeCon & CloudNativeCon NA*. Nov 2023.</span>
 
 "Using FPGAs to Create a Complete Computer System for the Classroom" (<a class="text-info" href="static/pubs/nycwic-pres.pdf">slides</a>)
 <br/>
@@ -83,6 +99,10 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 
 ### Invited Talks
 ---
+
+"Securing the AI Lifecycle: Trust, Transparency & Tooling in Open Source"
+<br>
+<span class="label_gray">S. Evans, M. Maruseac and **M. Melara**. Upcoming *OpenSSF Tech Talk*. Sep 2025.</span>
 
 "Understanding the Software Supply Chain Trust Landscape" (<a class="text-info" href="static/pubs/SWSCEcosystemOverview.pdf">slides</a>)
 <br>
