@@ -41,7 +41,7 @@ SOCIAL = (('github', 'https://github.com/marcelamelara'),('linkedin', 'https://w
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = False
 
-pages = ['index.md', 'personal.md', 'prior-projects.md', 'projects.md', 'publications.md']
+pages = ['index.md', 'personal.md', 'prior-projects.md', 'publications.md']
 
 # Tell Pelican to add 'style.css' to the output dir
 STATIC_PATHS = ['static/images', 'static/pubs', 'static/my.css', 'static/cv.pdf']
