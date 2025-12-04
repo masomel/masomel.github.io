@@ -1,7 +1,8 @@
 title: Projects
 URL: projects.html
 save_as: projects.html
-page-order: hidden
+page-order: 2
+status: hidden
 
 Here's a summary of my ongoing and recent research projects. You can also visit my <a class='text-info' href="https://github.com/marcelamelara">Github page</a> to see what OSS projects I currently contribute to.
 
