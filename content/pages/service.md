@@ -5,6 +5,7 @@ page-order: 4
 
 <div class="left">
 <div class="inner">
+<p>LF Open Robust Compartmentalization Alliance Co-organizer, 2025-present.
 <p>OpenSSF Technical Advisory Council, 2024-present.
 <p>ACM SCORED Co-Chair, 2022-23. Organizing Committee, 2024-present.
 <p>OpenSSF BEAR (Belonging, Empowerment, Allyship, Representation) WG Co-Chair, 2024-present.

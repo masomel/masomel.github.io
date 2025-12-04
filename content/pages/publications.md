@@ -5,12 +5,8 @@ page-order: 3
 
 For the most recent list of papers and patents, visit my <a class="text-info" href="https://scholar.google.com/citations?user=_YKwSB0AAAAJ&hl=en">Google Scholar</a> page.
 
-### Papers
+### Refereed Papers & Articles
 ---
-
-"Trustworthy and Confidential SBOM Exchange" (<a class="text-info" href="https://arxiv.org/pdf/2509.13217">preprint</a>)
-<br>
-<span class="label_gray">E. Abu Ishgair, Chinenye Okafor, **M. S. Melara** and S. Torres-Arias. *ArXiv Preprint*. Sep 2025.</span>
 
 "Proving Attributes about Confidential Compute Services with Validation and Endorsement Services" (<a class="text-info" href="static/pubs/systex25-ves.pdf">pdf</a>)
 <br>
@@ -20,10 +16,6 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 <br>
 <span class="label_gray">M. Spoczynski, **M. S. Melara**, S. Szyller. *IEEE 8th Workshop on System Software for Trusted Execution (SysTEX)*. July 2025.</span>
 
-"SoK: A Defense-Oriented Evaluation of Software Supply Chain Security" (<a class="text-info" href="https://arxiv.org/pdf/2405.14993">preprint</a>)
-<br>
-<span class="label_gray">E. Abu Ishgair, **M. S. Melara** and S. Torres-Arias. *ArXiv Preprint*. May 2024.</span>
-
 "A Viewpoint on Software Supply Chain Security: Are We Getting Lost in Translation?" (<a class="text-info" href="https://ieeexplore.ieee.org/abstract/document/10315780">article</a>)
 <br>
 <span class="label_gray">**M. S. Melara** and S. Torres-Arias. *IEEE Security & Privacy*, Vol. 21, Issue 6. Nov 2023.</span>
@@ -31,18 +23,6 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 "Hardware-Enforced Integrity and Provenance for Distributed Code Deployments" (<a class="text-info" href="https://arxiv.org/abs/2106.09843">pdf</a>)
 <br>
 <span class="label_gray">**M. S. Melara** and M. Bowman. *NIST Workshop on Enhancing Software Supply Chain Security*. June 2021.</span>
-
-"Enabling Security-Oriented Orchestration of Microservices" (<a class="text-info" href="https://arxiv.org/abs/2106.09841">preprint</a>)
-<br>
-<span class="label_gray">**M. S. Melara** and M. Bowman. *ArXiv Preprint*. May 2021.</span>
-
-"EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments" (<a class="text-info" href="https://arxiv.org/abs/1907.13245">preprint</a>)
-<br>
-<span class="label_gray">**M. S. Melara**, M. J. Freedman, and M. Bowman. *ArXiv Preprint*. July 2019.</span>
-
-"Pyronia: Redesigning Least Privilege and Isolation for the Age of IoT" (<a class="text-info" href="https://arxiv.org/abs/1903.01950">preprint</a>)
-<br>
-<span class="label_gray">**M. S. Melara**, D. Liu, and M. J. Freedman. *ArXiv Preprint*. March 2019.</span>
 
 "CONIKS: Bringing Key Transparency to End Users" (<a class="text-info" href="static/pubs/sec15-paper-melara.pdf">pdf</a>) (<a class="text-info" href="static/pubs/coniks_usenix15_pres.pdf">slides</a>)
 <br>
@@ -57,6 +37,33 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 "Vireos: an Integrated, Bottom-Up Educational Operating Systems Project with FPGA support" (<a class="text-info" href="static/pubs/vireos.pdf">pdf</a>)
 <br>
 <span class="label_gray">M. Corliss, **M. Melara**. *ACM SIGCSE*, 2011.</span>
+
+### Invited Talks
+---
+
+"Securing the AI Lifecycle: Trust, Transparency & Tooling in Open Source"
+<br>
+<span class="label_gray">S. Evans, M. Maruseac and **M. Melara**. *OpenSSF Tech Talk*. Sep 2025.</span>
+
+"Understanding the Software Supply Chain Trust Landscape" (<a class="text-info" href="static/pubs/SWSCEcosystemOverview.pdf">slides</a>)
+<br>
+<span class="label_gray">**M. Melara**. *C2PA Conformance Working Group*. Jul 2024.</span>
+
+"Securing the Software Supply Chain: An In-Depth Exploration of SLSA" (<a class="text-info" href="https://www.youtube.com/watch?v=HHXPEWvfFwk">video</a>)
+<br>
+<span class="label_gray">M. Lieberman, **M. Melara**, J. Lock, L. Capadan. *OpenSSF Tech Talk*. Oct 2023.</span>
+
+"Building Trust with Attestation" (<a class="text-info" href="https://openatintel.podbean.com/e/building-trust-with-attestation/">podcast</a>)
+<br>
+<span class="label_gray">**M. Melara**, V. Scarlata. *Open at Intel Podcast*. May 2023.</span>
+
+"Software Supply Chains" (<a class="text-info" href="https://openatintel.podbean.com/e/software-supply-chains/">podcast</a>)
+<br>
+<span class="label_gray">**M. Melara**, B. Domingues. *Open at Intel Podcast*. Mar 2023.</span>
+
+"EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments" (<a class="text-info" href="static/pubs/enclavedom-talk.pdf">slides</a>)
+<br>
+<span class="label_gray">**M. Melara**. *Microsoft Research Cryptography & Privacy Colloqium*. Sep 2020.</span>
 
 ### Conference Talks
 ---
@@ -97,33 +104,6 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 <br/>
 <span class="label_gray">**M. Melara**. *NYCWiC 2011*.</span>
 
-### Invited Talks
----
-
-"Securing the AI Lifecycle: Trust, Transparency & Tooling in Open Source"
-<br>
-<span class="label_gray">S. Evans, M. Maruseac and **M. Melara**. Upcoming *OpenSSF Tech Talk*. Sep 2025.</span>
-
-"Understanding the Software Supply Chain Trust Landscape" (<a class="text-info" href="static/pubs/SWSCEcosystemOverview.pdf">slides</a>)
-<br>
-<span class="label_gray">**M. Melara**. *C2PA Conformance Working Group*. Jul 2024.</span>
-
-"Securing the Software Supply Chain: An In-Depth Exploration of SLSA" (<a class="text-info" href="https://www.youtube.com/watch?v=HHXPEWvfFwk">video</a>)
-<br>
-<span class="label_gray">M. Lieberman, **M. Melara**, J. Lock, L. Capadan. *OpenSSF Tech Talk*. Oct 2023.</span>
-
-"Building Trust with Attestation" (<a class="text-info" href="https://openatintel.podbean.com/e/building-trust-with-attestation/">podcast</a>)
-<br>
-<span class="label_gray">**M. Melara**, V. Scarlata. *Open at Intel Podcast*. May 2023.</span>
-
-"Software Supply Chains" (<a class="text-info" href="https://openatintel.podbean.com/e/software-supply-chains/">podcast</a>)
-<br>
-<span class="label_gray">**M. Melara**, B. Domingues. *Open at Intel Podcast*. Mar 2023.</span>
-
-"EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments" (<a class="text-info" href="static/pubs/enclavedom-talk.pdf">slides</a>)
-<br>
-<span class="label_gray">**M. Melara**. *Microsoft Research Cryptography & Privacy Colloqium*. Sep 2020.</span>
-
 ### Patents
 ---
 
@@ -145,6 +125,10 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 
 ### Blog Posts
 ---
+
+"New Atlas CLI Open Source Tool Manages Machine Learning Model Provenance and Transparency" (<a class="text-info" href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/New-Atlas-CLI-Open-Source-Tool-Manages-Machine-Learning-Model/post/1696760">post</a>)
+<br>
+<span class="label_gray">M. Spoczynski, **M. Melara**, S. Szyller. *Intel Community Tech Innovation Blog*. Jun 2025.</span>
 
 "Building Trust in AI: An End-to-End Approach for the Machine Learning Model Lifecycle" (<a class="text-info" href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Building-Trust-in-AI-An-End-to-End-Approach-for-the-Machine/post/1648746">post</a>)
 <br>
@@ -180,6 +164,29 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 "Using FPGAs to Create a Complete Computer System for the Classroom" (<a class="text-info" href="static/pubs/fpga-poster.pdf">poster</a>)
 <br>
 <span class="label_gray">**M. Melara**. *HWS Summer Research Symposium 2010*.</span>
+
+### Public Manuscripts
+---
+
+"Trustworthy and Confidential SBOM Exchange" (<a class="text-info" href="https://arxiv.org/pdf/2509.13217">preprint</a>)
+<br>
+<span class="label_gray">E. Abu Ishgair, Chinenye Okafor, **M. S. Melara** and S. Torres-Arias. *ArXiv Preprint*. Sep 2025.</span>
+
+"SoK: A Defense-Oriented Evaluation of Software Supply Chain Security" (<a class="text-info" href="https://arxiv.org/pdf/2405.14993">preprint</a>)
+<br>
+<span class="label_gray">E. Abu Ishgair, **M. S. Melara** and S. Torres-Arias. *ArXiv Preprint*. May 2024.</span>
+
+"Enabling Security-Oriented Orchestration of Microservices" (<a class="text-info" href="https://arxiv.org/abs/2106.09841">preprint</a>)
+<br>
+<span class="label_gray">**M. S. Melara** and M. Bowman. *ArXiv Preprint*. May 2021.</span>
+
+"EnclaveDom: Privilege Separation for Large-TCB Applications in Trusted Execution Environments" (<a class="text-info" href="https://arxiv.org/abs/1907.13245">preprint</a>)
+<br>
+<span class="label_gray">**M. S. Melara**, M. J. Freedman, and M. Bowman. *ArXiv Preprint*. July 2019.</span>
+
+"Pyronia: Redesigning Least Privilege and Isolation for the Age of IoT" (<a class="text-info" href="https://arxiv.org/abs/1903.01950">preprint</a>)
+<br>
+<span class="label_gray">**M. S. Melara**, D. Liu, and M. J. Freedman. *ArXiv Preprint*. March 2019.</span>
 
 ### Theses
 ---

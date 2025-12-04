@@ -8,7 +8,7 @@ page-order: 1
 <p>
 I'm a Research Scientist in the Security and Privacy Research group at Intel
 Labs. I currently also serve on the Technical Advisory Council of the
-<a class="text-info" href="https://openssf.org">OpenSSF</a>..
+<a class="text-info" href="https://openssf.org">OpenSSF</a>.
 
 <p>
 I broadly work on building trustworthy distributed systems, where I apply
