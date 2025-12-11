@@ -10,16 +10,14 @@ I'm a Research Scientist in the Security and Privacy Research group at Intel
 Labs. I currently also serve on the Technical Advisory Council of the
 <a class="text-info" href="https://openssf.org">OpenSSF</a>.
 
-<p>
-I broadly work on building trustworthy distributed systems, where I apply
+<p>I broadly work on building trustworthy distributed systems, where I apply
 techniques from operating systems, networks, cryptography and hardware-based
 security to improve the auditability and security of deployed large-scale
 systems. As a firm believer in highly collaborative, open projects and in
 facilitating practical adoption of my research, I often work closely with a
 variety of open source and academic partners.
 
-<p>
-I lead research on trustworthy, high-integrity and confidential
+<p>I lead research on trustworthy, high-integrity and confidential
 software supply chains and cloud systems. More recently, I have been expanding
 upon this work to explore attestation and validation of cloud workloads in
 trusted execution environments, including use cases like attested CI/CD systems
