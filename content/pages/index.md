@@ -18,9 +18,12 @@ systems. As a firm believer in highly collaborative, open projects and in
 facilitating practical adoption of my research, I often work closely with a
 variety of open source and academic partners.
 
-My current research centers on attestation and validation of cloud workloads in
+I lead research on trustworthy, high-integrity and confidential
+software supply chains and cloud systems. More recently, I have been expanding
+upon this work to explore attestation and validation of cloud workloads in
 trusted execution environments, including use cases like attested CI/CD systems
-and confidential AI applications.
+and confidential AI applications. My <a class="text-info" href="publications.html">publications</a> details on specific projects I'm involved with.
+
 My research on <a class="text-info" href="https://coniks.org">CONIKS</a>, a key
 transparency system that makes the issuance of secure messaging encryption keys
 cryptographically auditable, is used in production including by
