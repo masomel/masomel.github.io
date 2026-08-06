@@ -10,6 +10,4 @@ and German, and decent at French, which I studied once upon a time in high
 school and college.
  
 These days, I like to spend my free time with my family and two dogs, tending to
-my garden, writing fiction and poetry, hiking, or playing tabletop games. I'm
-also a huge language/linguistics nerd, so one of my current activities is
-learning Japanese.
+my garden, writing fiction and poetry, hiking, doing amateur astronomy, or playing tabletop games.

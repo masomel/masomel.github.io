@@ -5,12 +5,12 @@ page-order: 4
 
 <div class="left">
 <div class="inner">
-<p>LF Open Robust Compartmentalization Alliance Co-organizer, 2025-present.
 <p>OpenSSF Technical Advisory Council, 2024-present.
 <p>ACM SCORED Co-Chair, 2022-23. Organizing Committee, 2024-present.
 <p>OpenSSF BEAR (Belonging, Empowerment, Allyship, Representation) WG Co-Chair, 2024-present.
 <p>OpenSSF SLSA Specification maintainer, 2024-present.
 <p>CNCF in-toto Attestation Framework maintainer, 2023-present.
+<p>ACM Conference on Reproducibility and Replicability Program Committee, 2026.
 <p>Open Source SecurityCon NA Program Committee, 2025.
 <p>OpenSSF Community Day NA Program Committee, 2025.
 <p>ACM EuroSec Program Committee, 2024-25.
