@@ -14,7 +14,7 @@ For the most recent list of papers and patents, visit my <a class="text-info" hr
 
 "IDEAS: C-to-Rust Translation Using Improved Large Language Model Decoding and Automated Equivalence Testing" (<a class="text-info" href="https://ieeexplore.ieee.org/document/11635938">paper</a>)
 <br>
-<span class="label_gray">C. Cornelius, C. **M. S. Melara**, W. Xu, M. Arvinte, M. Momeu, J. He, K. Sen, D. Song. *IEEE Security & Privacy*, Early Access. July 2026.</span>
+<span class="label_gray">C. Cornelius, **M. S. Melara**, W. Xu, M. Arvinte, M. Momeu, J. He, K. Sen, D. Song. *IEEE Security & Privacy*, Early Access. July 2026.</span>
 
 "SourceFabric: Consistent and Scalable Security Policies for Git Repositories" (<a class="text-info" href="https://ieeexplore.ieee.org/document/11624249">paper</a>)
 <br>
